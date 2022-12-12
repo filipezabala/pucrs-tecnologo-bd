@@ -81,8 +81,8 @@ t <- abs(qt(0.025, n-1))        # |-2.2621572|
 
 
 ### VIDEO 6.5
-# Como decidir se uma moeda pode ser considerada equilibrada? Intervalos de confiança como regras 
-# de decisão sob H0. 
+# Como decidir se uma moeda pode ser considerada equilibrada? Intervalos de 
+# confiança como regras de decisão sob H0. 
 
 # https://filipezabala.com/eb/inferencia-classica.html#acidc
 # https://filipezabala.com/eb/inferencia-classica.html#teste-de-hip%C3%B3teses-1
