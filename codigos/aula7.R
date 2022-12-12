@@ -2,12 +2,18 @@
 ###         PUCRS        ###
 ### ESTATÍSTICA APLICADA ###
 ###        AULA 7        ###
-### HÉLIO H. BITTENCOURT ###
 ###   FILIPE J. ZABALA   ###
 ############################
 
+# https://github.com/filipezabala/pucrs-tecnologo-bd
+
+
 ### VIDEO 7.1
-# Estatística do teste. Tipos de erro. Definição formal do p-value. Limitações do p-value. 
+# Espaço paramétrico. Definição das hipóteses. Hipóteses uni e bilaterais. 
+# A estatística do teste. Tipos de erro. Definição formal do p-value.
+
+# https://filipezabala.com/eb/inferencia-classica.html#teste-de-hip%C3%B3teses-1
+
 
 
 ### VIDEO 7.2
@@ -75,7 +81,7 @@ MASS::fractions(var(y)/var(x))
 # Magnusson (2022) - Understanding p-values Through Simulations - An Interactive Visualization
 # https://rpsychologist.com/pvalue/
 
-# Zabala (2022) Estatística Básica
+# Zabala (2022) - Estatística Básica
 # https://filipezabala.com/eb/
 
 # Keysers, Gazzola & Wagenmakers (2020) - Using Bayes factor hypothesis testing in neuroscience 
@@ -93,7 +99,7 @@ MASS::fractions(var(y)/var(x))
 # Bernett (1999) - Comparative Statistical Inference, Third Edition
 # https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316955
 
-# Pereira & Wechsler (1993) - ON THE CONCEPT OF P-VALUE
+# Pereira & Wechsler (1993) - On the concept of P-value
 # https://www.jstor.org/stable/pdf/43600839.pdf
 
 # Berger (1985) - Statistical Decision Theory and Bayesian Analysis

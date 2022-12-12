@@ -2,9 +2,10 @@
 ###         PUCRS        ###
 ### ESTATÍSTICA APLICADA ###
 ###        AULA 9        ###
-### HÉLIO H. BITTENCOURT ###
 ###   FILIPE J. ZABALA   ###
 ############################
+
+# https://github.com/filipezabala/pucrs-tecnologo-bd
 
 ### VIDEO 9.1
 # O Método de Monte Carlo. A distribuição uniforme. 

@@ -2,9 +2,10 @@
 ###         PUCRS        ###
 ### ESTATÍSTICA APLICADA ###
 ###        AULA 10       ###
-### HÉLIO H. BITTENCOURT ###
 ###   FILIPE J. ZABALA   ###
 ############################
+
+# https://github.com/filipezabala/pucrs-tecnologo-bd
 
 ### VIDEO 10.1
 # Definições. Modelo estrutural. Função decompose. Objeto ts. Pacotes forecast, fpp2 e jurimetrics. 

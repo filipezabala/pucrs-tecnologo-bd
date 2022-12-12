@@ -2,9 +2,10 @@
 ###         PUCRS        ###
 ### ESTATÍSTICA APLICADA ###
 ###        AULA 8        ###
-### HÉLIO H. BITTENCOURT ###
 ###   FILIPE J. ZABALA   ###
 ############################
+
+# https://github.com/filipezabala/pucrs-tecnologo-bd
 
 ### VIDEO 8.1
 # Correlação universal e amostral. Teste para a correlação. 

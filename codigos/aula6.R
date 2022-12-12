@@ -2,7 +2,6 @@
 ###         PUCRS        ###
 ### ESTATÍSTICA APLICADA ###
 ###        AULA 6        ###
-### HÉLIO H. BITTENCOURT ###
 ###   FILIPE J. ZABALA   ###
 ############################
 
@@ -106,6 +105,7 @@ t <- abs(qt(0.025, n-1))        # |-2.2621572|
 
 (e <- 2*sqrt(64/400))
 2*e
+
 
 ### PARA SABER MAIS
 # How To Update Your Beliefs Systematically - Bayes’ Theorem 
