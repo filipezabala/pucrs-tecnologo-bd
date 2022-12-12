@@ -6,6 +6,9 @@
 ###   FILIPE J. ZABALA   ###
 ############################
 
+# https://github.com/filipezabala/pucrs-tecnologo-bd
+
+
 ### VIDEO 6.1
 # Uma perspectiva do curso e do material. Formalização dos conceitos de Inferências Clássica e Bayesiana. 
 # (Função de) Verossimilhança. Princípio da verossimilhança.
@@ -56,7 +59,7 @@ pba2 = 1
 ### CHECKPOINT 6.1
 # As principais escolas de Inferência Estatística são 
 
-# A. Clássica e Bayesiana V
+# A. Clássica e Bayesiana
 # B. Fiduciária e Bayesiana 
 # C. Clássica e Fiduciária 
 # D. Fundamentalista e Fiduciária 
@@ -70,10 +73,16 @@ pba2 = 1
 # https://filipezabala.com/eb/inferencia-classica.html#intervalo-de-confian%C3%A7a
 # https://filipezabala.com/eb/inferencia-bayesiana.html#intervaloregi%C3%A3o-de-credibilidade
 
+n <- 10
+m <- 1.63
+s <- 0.05                       # 's' amostral
+t <- abs(qt(0.025, n-1))        # |-2.2621572|
+(e <- t*s/sqrt(n))              # Margem de erro
+
 
 ### VIDEO 6.5
 # Como decidir se uma moeda pode ser considerada equilibrada? Intervalos de confiança como regras 
-# de decisão sob H0. A estatística do teste. Definição das hipóteses. Hipóteses uni e bilaterais.
+# de decisão sob H0. 
 
 # https://filipezabala.com/eb/inferencia-classica.html#acidc
 # https://filipezabala.com/eb/inferencia-classica.html#teste-de-hip%C3%B3teses-1
@@ -95,6 +104,8 @@ pba2 = 1
 # E. 3,2
 
 
+(e <- 2*sqrt(64/400))
+2*e
 
 ### PARA SABER MAIS
 # How To Update Your Beliefs Systematically - Bayes’ Theorem 
@@ -107,7 +118,7 @@ pba2 = 1
 # https://youtu.be/pYxNSUDSFH4
 
 # Keysers, Gazzola & Wagenmakers (2020) - Using Bayes factor hypothesis testing in neuroscience 
-# o establish evidence of absence
+# to establish evidence of absence
 # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610527/
 
 # Fienberg (2006) - When Did Bayesian Inference Become "Bayesian"?
@@ -115,6 +126,9 @@ pba2 = 1
 
 # Press (2003) - Subjective and Objective Bayesian Statistics: Principles, Models, and Applications, Second Edition
 # https://onlinelibrary.wiley.com/doi/book/10.1002/9780470317105
+
+# Seidenfeld (1992) - R. A. Fisher's Fiducial Argument and Bayes' Theorem
+# https://www.jstor.org/stable/2246072
 
 # Bayes (1763) - An Essay Towards Solving a Problem in the Doctrine of Chances
 # https://www.ias.ac.in/article/fulltext/reso/008/04/0080-0088
