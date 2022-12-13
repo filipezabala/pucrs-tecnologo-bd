@@ -17,11 +17,16 @@
 
 
 ### VIDEO 7.2
-# Teste z para a proporção. Teste t para a média. 
+# Testes para a proporção. Testes para a média. 
+
+# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-univariados
 
 
 ### VIDEO 7.3
-# Comparação de proporções, médias e variâncias. 
+# Testes bivariados. Comparação de proporções, médias e variâncias. 
+
+# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-bivariados
+
 
 
 ### CHECKPOINT 7.1
@@ -43,11 +48,19 @@
   
 
 ### VIDEO 7.4
-# ANOVA. Kurskall-Wallis. 
+# Testes multivariados. ANOVA. Kurskall-Wallis. 
+
+# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-multivariados
+# https://filipezabala.com/eb/inferencia-classica.html#n%C3%A3o-param%C3%A9tricos-multivariados
 
 
 ### VIDEO 7.5
-# Fatores de Bayes. Intervalos de credibilidade. 
+# Testes de hipóteses bayesianos. Fatores de Bayes. Software JASP.
+
+# https://filipezabala.com/eb/inferencia-bayesiana.html#teste-de-hip%C3%B3teses
+# https://sites.stat.washington.edu/raftery/Research/PDF/kass1995.pdf
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610527/
+
 
 
 ### CHECKPOINT 7.2
@@ -60,10 +73,10 @@
 # de Y e X (respectivamente) pode ser considerado igual a 4. 
 # Assim, o valor observado da estatística do teste supondo Ho verdadeira será: 
   
-# A. 24/130 ou 130/24. 
-# B. 90/130 ou 130/90. 
-# C 96/130 ou 130/96. 
-# D. 30/130 ou 130/30. 
+# A. 24/52 ou 52/24. 
+# B. 90/52 ou 52/90. 
+# C 96/52 ou 52/96. 
+# D. 9/52 ou 52/9
 # E. 1 
 
 n <- 5
@@ -77,12 +90,10 @@ var.test(y,x)
 MASS::fractions(var(y)/var(x))
 
 
+
 ### PARA SABER MAIS
 # Magnusson (2022) - Understanding p-values Through Simulations - An Interactive Visualization
 # https://rpsychologist.com/pvalue/
-
-# Zabala (2022) - Estatística Básica
-# https://filipezabala.com/eb/
 
 # Keysers, Gazzola & Wagenmakers (2020) - Using Bayes factor hypothesis testing in neuroscience 
 # o establish evidence of absence
@@ -99,6 +110,9 @@ MASS::fractions(var(y)/var(x))
 # Bernett (1999) - Comparative Statistical Inference, Third Edition
 # https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316955
 
+# Kass & Raftery (1995) - Bayes Factors
+# https://sites.stat.washington.edu/raftery/Research/PDF/kass1995.pdf
+
 # Pereira & Wechsler (1993) - On the concept of P-value
 # https://www.jstor.org/stable/pdf/43600839.pdf
 
@@ -107,4 +121,3 @@ MASS::fractions(var(y)/var(x))
 
 # Efron (1979) - Bootstrap Methods: Another Look at the Jackknife
 # http://www.jstor.org/stable/2958830
-
