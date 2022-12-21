@@ -10,24 +10,37 @@
 
 ### VIDEO 7.1
 # Espaço paramétrico. Definição das hipóteses. Hipóteses uni e bilaterais. 
-# A estatística do teste. Tipos de erro. Definição formal do p-value.
+# A estatística do teste.
 
 # https://filipezabala.com/eb/inferencia-classica.html#teste-de-hip%C3%B3teses-1
 
 
 
 ### VIDEO 7.2
-# Testes para a proporção. Testes para a média. 
+# Testes para a proporção. Definição e cálculo do p-value. 
+
+# https://filipezabala.com/eb/inferencia-classica.html#teste-de-hip%C3%B3teses-1
+
+n = 25
+x = 10
+(p = x/n)
+pi0 = 0.5
+
+(zt <- (p-pi0)/sqrt(pi0*(1-pi0)/n))
+
+2*0.1587
+
+### VIDEO 7.3
+# Decidindo com o p-value. Tipos de erro. Testes para a média. Software JASP.
 
 # https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-univariados
 
 
-### VIDEO 7.3
-# Testes bivariados. Comparação de proporções, médias e variâncias. 
-
-# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-bivariados
-
-
+set.seed(314); x = rpois(30, 2)
+mean(x)
+mu0 = 0.4
+t.test(x, alternative = 'greater', mu = mu0)
+DescTools::ZTest(x, alternative = 'greater', mu = mu0, sd_pop = sd(x))
 
 ### CHECKPOINT 7.1
 
@@ -48,18 +61,43 @@
   
 
 ### VIDEO 7.4
-# Testes multivariados. ANOVA. Kurskall-Wallis. 
+# Testes bivariados. Comparação de proporções, médias e variâncias. 
 
-# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-multivariados
-# https://filipezabala.com/eb/inferencia-classica.html#n%C3%A3o-param%C3%A9tricos-multivariados
+# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-bivariados
 
+x <- 1:10
+y <- c(7:20)
+nx <- length(x)
+ny <- length(y)
+var(y)
+var(x)
+(Fmax <- var(y)/var(x))
+var.test(y,x)
 
-### VIDEO 7.5
-# Testes de hipóteses bayesianos. Fatores de Bayes. Software JASP.
+## VIDEO 7.5
+# Testes de hipóteses bayesianos. Fatores de Bayes. Testes multivariados. ANOVA. Kurskall-Wallis. 
 
 # https://filipezabala.com/eb/inferencia-bayesiana.html#teste-de-hip%C3%B3teses
 # https://sites.stat.washington.edu/raftery/Research/PDF/kass1995.pdf
 # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610527/
+# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-multivariados
+# https://filipezabala.com/eb/inferencia-classica.html#n%C3%A3o-param%C3%A9tricos-multivariados
+
+# dados
+x <- c(8,10,9,10,9, 7,8,5,8,5, 4,8,7,5,7)
+g <- as.factor(rep(1:3, each = 5))
+(k <- length(unique(g))) # número de grupos
+boxplot(x ~ g)
+
+# validando suposições, veja ?by
+by(x,g,shapiro.test)  # S2, normalidade
+car::leveneTest(x,g)  # S3, homogeneidade de variâncias
+
+# pela função aov
+summary(anova1 <- aov(x ~ g))
+
+# Post-hoc
+stats::TukeyHSD(anova1)
 
 
 
@@ -70,24 +108,27 @@
 # X1 = 4, X2 = 5, X3 = 7, X4 = 8 e X5 = 11 para a população X 
 # Y1 = 8, Y2 = 11, Y3 = 19 e Y4 = 22 para a população Y 
 # Suponha que o objetivo final é testar se o quociente das variâncias populacionais 
-# de Y e X (respectivamente) pode ser considerado igual a 4. 
+# de Y e X (respectivamente) pode ser considerado igual a 1. 
 # Assim, o valor observado da estatística do teste supondo Ho verdadeira será: 
   
 # A. 24/52 ou 52/24. 
 # B. 90/52 ou 52/90. 
 # C 96/52 ou 52/96. 
-# D. 9/52 ou 52/9
+# D. 9/52 ou 52/9. V
 # E. 1 
 
 n <- 5
 m <- 4
 x <- c(4,5,7,8,11)
 y <- c(8,11,19,22)
+var(x)
+var(y)
 
-var.test(x,y)
-MASS::fractions(var(x)/var(y))
-var.test(y,x)
 MASS::fractions(var(y)/var(x))
+var.test(y,x)
+
+MASS::fractions(var(x)/var(y))
+var.test(x,y)
 
 
 
