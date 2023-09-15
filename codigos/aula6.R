@@ -44,8 +44,8 @@ pba2 = 1
 ### VIDEO 6.3
 # Estimação pontual. Estimadores não viesados e de máxima verossimilhança. Média, mediana e moda da distribuição posteriori.
 
-# https://filipezabala.com/eb/inferencia-classica.html#estima%C3%A7%C3%A3o-pontual-1
-# https://filipezabala.com/eb/inferencia-bayesiana.html#estima%C3%A7%C3%A3o-pontual
+# https://filipezabala.com/eb/estima-pont-class.html
+# https://filipezabala.com/eb/estima-pont-bayes.html
 
 # E(X) = \sum_{x} x.p(x)
 # E(aX+bY+c) = aE(X)+bE(Y)+c
@@ -69,8 +69,8 @@ pba2 = 1
 ### VIDEO 6.4
 # Estimação por intervalo. Proporção, média, variância e desvio padrão. Intervalos de credibilidade.
 
-# https://filipezabala.com/eb/inferencia-classica.html#intervalo-de-confian%C3%A7a
-# https://filipezabala.com/eb/inferencia-bayesiana.html#intervaloregi%C3%A3o-de-credibilidade
+# https://filipezabala.com/eb/int-conf.html
+# https://filipezabala.com/eb/int-cred.html
 
 n <- 10
 m <- 1.63
@@ -83,8 +83,7 @@ t <- abs(qt(0.025, n-1))        # |-2.2621572|
 # Como decidir se uma moeda pode ser considerada equilibrada? Intervalos de 
 # confiança como regras de decisão sob H0. 
 
-# https://filipezabala.com/eb/inferencia-classica.html#acidc
-# https://filipezabala.com/eb/inferencia-classica.html#teste-de-hip%C3%B3teses-1
+# https://filipezabala.com/eb/th-class.html#acidc
 
 
 
