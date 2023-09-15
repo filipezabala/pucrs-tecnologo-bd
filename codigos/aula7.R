@@ -12,14 +12,14 @@
 # Espaço paramétrico. Definição das hipóteses. Hipóteses uni e bilaterais. 
 # A estatística do teste.
 
-# https://filipezabala.com/eb/inferencia-classica.html#teste-de-hip%C3%B3teses-1
+# https://filipezabala.com/eb/th-class.html
 
 
 
 ### VIDEO 7.2
 # Testes para a proporção. Definição e cálculo do p-value. 
 
-# https://filipezabala.com/eb/inferencia-classica.html#teste-de-hip%C3%B3teses-1
+# https://filipezabala.com/eb/th-class.html
 
 n = 25
 x = 10
@@ -33,7 +33,7 @@ pi0 = 0.5
 ### VIDEO 7.3
 # Decidindo com o p-value. Tipos de erro. Testes para a média. Software JASP.
 
-# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-univariados
+# https://filipezabala.com/eb/th-class.html
 
 
 set.seed(314); x = rpois(30, 2)
@@ -63,7 +63,8 @@ DescTools::ZTest(x, alternative = 'greater', mu = mu0, sd_pop = sd(x))
 ### VIDEO 7.4
 # Testes bivariados. Comparação de proporções, médias e variâncias. 
 
-# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-bivariados
+# https://filipezabala.com/eb/th-class.html#param%C3%A9tricos-bivariados
+# https://filipezabala.com/eb/th-class.html#n%C3%A3o-param%C3%A9tricos-bivariados
 
 x <- 1:10
 y <- c(7:20)
@@ -77,11 +78,11 @@ var.test(y,x)
 ## VIDEO 7.5
 # Testes de hipóteses bayesianos. Fatores de Bayes. Testes multivariados. ANOVA. Kurskall-Wallis. 
 
-# https://filipezabala.com/eb/inferencia-bayesiana.html#teste-de-hip%C3%B3teses
+# https://filipezabala.com/eb/th-bayes.html
 # https://sites.stat.washington.edu/raftery/Research/PDF/kass1995.pdf
 # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7610527/
-# https://filipezabala.com/eb/inferencia-classica.html#param%C3%A9tricos-multivariados
-# https://filipezabala.com/eb/inferencia-classica.html#n%C3%A3o-param%C3%A9tricos-multivariados
+# https://filipezabala.com/eb/th-class.html#param%C3%A9tricos-multivariados
+# https://filipezabala.com/eb/th-class.html#n%C3%A3o-param%C3%A9tricos-multivariados
 
 # dados
 x <- c(8,10,9,10,9, 7,8,5,8,5, 4,8,7,5,7)
