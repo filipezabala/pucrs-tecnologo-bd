@@ -12,7 +12,7 @@
 ### VIDEO 8.1
 # Correlação universal e amostral. Teste para a correlação.
 
-# https://filipezabala.com/eb/modelos-lineares.html
+# https://filipezabala.com/eb/correg.html
 
 dr <- read.table('https://filipezabala.com/data/drinks.txt', header = T)
 head(dr)
@@ -24,7 +24,7 @@ cor.test(dr$temp, dr$gar)
 ### VIDEO 8.2
 # Definição do modelo RLS. Estimação dos parâmetros. Análise de diagnóstico.
 
-# https://filipezabala.com/eb/modelos-lineares.html#regress%C3%A3o-linear-simples
+# https://filipezabala.com/eb/rls.html
 
 sx = sum(dr$temp)
 sx2 = sum(dr$temp^2)
