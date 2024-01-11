@@ -1,0 +1,719 @@
+id;name;full_name;overall_rating;value_euro;wage_euro;nationality;national_team;club_team;age;height_cm;weight_kgs;international_reputation(1-5);weak_foot(1-5);skill_moves(1-5);club_rating;Goleiro;Zagueiro;Meio;Atacante;crossing;finishing;heading_accuracy;short_passing;dribbling;jumping;strength;long_shots;aggression;GK_reflexes
+158023;Messi;Lionel Andrés Messi Cuccittini;94;110500000;565000;Argentina;Argentina;FC Barcelona;31;170;72;5;4;4;86;0;0;0;1;86;95;70;92;97;68;66;94;48;8
+153079;Aguero;Sergio Leonel Agüero del Castillo;89;64500000;300000;Argentina;Argentina;Manchester City;30;173;70;4;4;4;85;0;0;0;0;70;93;77;81;89;81;73;83;65;14
+211110;Dybala;Paulo Bruno Exequiel Dybala;89;89000000;205000;Argentina;Argentina;Juventus;25;152;75;3;3;4;85;0;0;0;1;82;84;68;87;92;75;65;88;48;8
+201399;Icardi;Mauro Emanuel Icardi Rivero;87;64500000;130000;Argentina;Argentina;Inter;26;155;75;3;4;3;82;0;0;0;1;46;91;91;73;77;94;76;70;56;9
+226226;Lo Celso;Giovani Lo Celso;82;30000000;83000;Argentina;Argentina;Real Betis;22;175;70;1;3;4;80;0;0;0;0;75;77;59;82;84;64;69;76;65;14
+199667;Funes Mori;José Ramiro Funes Mori;77;8500000;28000;Argentina;Argentina;Villarreal CF;28;185;79;2;3;2;79;0;0;0;0;66;40;79;70;63;77;78;56;83;7
+212616;De Paul;Rodrigo Javier De Paul;77;12000000;27000;Argentina;Argentina;Udinese;24;152;70;1;3;4;75;0;0;0;0;76;68;50;78;83;58;68;79;56;14
+216816;Simeone;Giovanni Pablo Simeone;78;15000000;53000;Argentina;Argentina;Fiorentina;23;155;81;2;3;3;76;0;0;0;0;40;79;80;68;76;84;72;66;70;11
+183892;Mercado;Gabriel Iván Mercado;79;8500000;19000;Argentina;Argentina;Sevilla FC;31;155;83;1;3;2;80;0;0;0;0;68;60;76;71;57;76;82;58;81;6
+231478;Martínez;Lautaro Martínez;79;18000000;54000;Argentina;Argentina;Inter;21;175;79;1;4;4;82;0;0;0;0;56;82;79;62;78;81;86;68;74;13
+173373;Romero;Sergio Germán Romero;80;9000000;91000;Argentina;Argentina;Manchester United;32;193;87;3;3;1;82;0;0;0;0;11;14;12;39;12;63;75;11;33;83
+193061;Pereyra;Roberto Pereyra;80;15500000;65000;Argentina;Argentina;Watford;28;183;77;2;4;4;77;0;0;0;0;78;74;60;82;84;65;63;74;66;8
+193601;Pezzella;Germán Alejandro Pezzella;80;14500000;59000;Argentina;Argentina;Fiorentina;27;185;81;1;3;2;76;0;0;0;0;40;48;82;64;54;82;82;50;82;15
+207439;Paredes;Leandro Paredes;80;19500000;72000;Argentina;Argentina;Paris Saint-Germain;24;155;75;2;4;4;84;0;0;1;0;76;55;60;84;78;61;69;80;79;10
+211256;Tagliafico;Nicolás Alejandro Tagliafico;80;15000000;20000;Argentina;Argentina;Ajax;26;173;65;2;2;3;78;0;1;0;0;75;57;73;75;74;90;63;44;78;16
+170368;Lamela;Erik Lamela;81;21000000;105000;Argentina;Argentina;Tottenham Hotspur;27;183;80;2;2;4;83;0;0;0;0;78;74;69;83;86;63;68;82;84;13
+192366;Otamendi;Nicolás Hernán Otamendi;84;23000000;160000;Argentina;Argentina;Manchester City;31;183;81;3;3;2;85;0;0;0;0;52;54;84;75;51;92;80;56;91;12
+199005;Ryan;Mathew Ryan;80;13000000;43000;Australia;Australia;Brighton & Hove Albion;26;183;82;1;4;1;76;1;0;0;0;23;11;14;40;13;78;68;18;36;83
+195033;Leckie;Mathew Leckie;75;7000000;25000;Australia;Australia;Hertha BSC;28;155;82;2;4;3;77;0;0;0;0;76;68;72;68;76;87;70;67;73;10
+182440;Kruse;Robbie Kruse;72;3000000;14000;Australia;Australia;VfL Bochum 1848;30;152;70;1;2;3;70;0;0;0;0;68;73;52;69;70;70;54;70;62;15
+199002;Amini;Mustafa Amini;65;675000;4000;Australia;Australia;Aarhus GF;25;175;75;1;4;3;65;0;0;0;0;52;55;48;68;66;74;69;61;66;10
+224297;Gersbach;Alex Gersbach;65;750000;2000;Australia;Australia;NAC Breda;21;183;73;1;3;2;67;0;0;0;0;60;34;53;57;59;62;71;34;61;11
+212830;Mabil;Awer Mabil;70;2600000;12000;Australia;Australia;FC Midtjylland;23;152;73;1;3;4;71;0;0;0;1;68;59;33;62;75;56;46;44;35;12
+211378;Irvine;Jackson Irvine;71;3100000;17000;Australia;Australia;Hull City;26;188;70;1;3;3;70;0;0;0;0;61;70;73;69;67;82;80;66;75;11
+176992;Milligan;Mark  Milligan;72;1800000;6000;Australia;Australia;Hibernian;33;152;78;1;3;2;67;0;0;0;0;61;48;68;70;62;77;79;67;80;8
+202157;Behich;Aziz Eraltay Behich;73;3300000;12000;Australia;Australia;PSV;28;170;63;1;4;3;76;0;1;0;0;74;65;54;74;74;73;54;62;79;15
+205347;Luongo;Massimo  Luongo;73;4200000;8000;Australia;Australia;Queens Park Rangers;26;175;76;1;3;3;70;0;0;0;0;51;63;59;71;71;84;70;63;79;6
+181481;Vukovic;Danny Vukovic;74;2800000;11000;Australia;Australia;KRC Genk;33;188;99;1;3;1;74;0;0;0;0;11;11;16;25;11;69;76;13;41;77
+199000;Sainsbury;Trent Sainsbury;74;5500000;13000;Australia;Australia;PSV;27;183;78;1;3;2;76;0;0;0;0;58;45;74;67;55;77;76;43;62;6
+207928;Rogi?;Tom Rogi?;76;9500000;46000;Australia;Australia;Celtic;26;188;88;1;4;4;74;0;0;0;1;61;70;60;76;82;52;77;80;48;11
+184200;Arnautovi?;Marko Arnautovi?;82;22000000;120000;Austria;Austria;West Ham United;29;193;83;3;4;4;79;0;0;0;0;78;78;74;78;84;67;84;75;84;15
+204923;Sabitzer;Marcel Sabitzer;81;22500000;54000;Austria;Austria;RB Leipzig;24;152;77;2;4;3;79;0;0;1;0;70;79;56;79;79;75;76;81;70;13
+201922;Hinteregger;Martin Hinteregger;78;10500000;24000;Austria;Austria;Eintracht Frankfurt;26;183;83;2;3;2;78;0;0;0;0;53;48;77;63;55;85;83;71;82;10
+189606;Baumgartlinger;Julian Baumgartlinger;78;7500000;53000;Austria;Austria;Bayer 04 Leverkusen;31;183;86;2;3;2;80;0;0;0;0;63;39;69;81;65;80;78;39;84;14
+195038;Kainz;Florian Kainz;75;8000000;19000;Austria;Austria;1. FC Koln;26;175;71;1;5;4;76;0;0;0;0;72;71;43;72;80;70;55;76;37;13
+221931;Žulj;Peter Žulj;74;7000000;17000;Austria;Austria;RSC Anderlecht;25;185;80;1;3;4;73;0;0;0;0;69;65;58;75;74;51;76;72;45;15
+177578;Prödl;Sebastian Prödl;74;3800000;39000;Austria;Austria;Watford;31;196;97;2;2;2;77;0;0;0;0;44;34;81;60;30;34;88;32;84;8
+209997;Wimmer;Kevin Wimmer;74;6000000;32000;Austria;Austria;Hannover 96;26;188;85;2;3;2;75;0;0;0;0;44;21;74;72;63;64;79;25;74;11
+211147;Lazaro;Valentino Lazaro;75;7500000;20000;Austria;Austria;Hertha BSC;22;152;75;1;3;4;77;0;0;1;0;80;69;47;77;81;56;66;70;65;8
+194665;Ilsanker;Stefan Ilsanker;75;5000000;40000;Austria;Austria;RB Leipzig;29;188;86;1;3;2;79;0;0;0;0;39;45;72;71;50;60;84;62;89;17
+210489;Schaub;Louis Schaub;75;9000000;18000;Austria;Austria;1. FC Koln;24;152;70;1;3;3;76;0;0;0;0;67;69;52;74;83;69;65;65;60;14
+220925;Schöpf;Alessandro Schöpf;77;11500000;27000;Austria;Austria;FC Schalke 04;25;152;74;1;4;3;78;0;0;0;0;76;72;44;75;80;62;62;72;60;10
+228336;Grillitsch;Florian Grillitsch;77;11500000;30000;Austria;Austria;TSG 1899 Hoffenheim;23;188;77;2;3;3;78;0;0;0;0;68;58;61;81;76;48;68;55;49;7
+189060;Dragovi?;Aleksandar Dragovi?;77;7500000;50000;Austria;Austria;Bayer 04 Leverkusen;28;185;88;2;4;2;80;0;0;0;0;49;41;76;67;62;80;80;53;74;8
+199439;Gregoritsch;Michael Gregoritsch;79;16000000;27000;Austria;Austria;FC Augsburg;24;193;87;2;3;4;74;0;0;0;0;65;79;71;77;75;50;79;80;58;6
+197445;Alaba;David Olatukunbo Alaba;84;30500000;98000;Austria;Austria;FC Bayern Munchen;26;155;76;4;4;3;85;0;0;0;0;81;63;75;82;79;82;71;82;69;9
+192119;Courtois;Thibaut Courtois;89;53500000;240000;Belgium;Belgium;Real Madrid;26;198;96;4;2;1;86;1;0;0;0;14;14;13;33;13;68;70;17;23;88
+172871;Vertonghen;Jan Vertonghen;87;34000000;155000;Belgium;Belgium;Tottenham Hotspur;31;188;86;3;3;3;83;0;0;0;0;72;56;80;79;71;85;79;66;84;7
+175943;Mertens;Dries Mertens;87;45000000;135000;Belgium;Belgium;Napoli;31;170;61;3;4;4;82;0;0;0;1;77;86;35;82;91;60;42;81;59;4
+184087;Alderweireld;Toby Alderweireld;87;44000000;165000;Belgium;Belgium;Tottenham Hotspur;30;185;81;3;3;2;83;0;0;0;0;64;45;82;79;62;84;79;65;81;14
+208330;Januzaj;Adnan Januzaj;79;17500000;32000;Belgium;Belgium;Real Sociedad;24;185;76;1;4;4;77;0;0;0;0;82;71;42;79;85;61;59;71;41;7
+212501;Dendoncker;Leander Dendoncker;79;14500000;20000;Belgium;Belgium;Wolverhampton Wanderers;23;188;88;2;4;2;76;0;0;0;0;75;66;78;79;69;67;87;76;74;6
+216393;Tielemans;Youri Tielemans;78;16000000;47000;Belgium;Belgium;Leicester City;21;175;72;2;5;4;78;0;0;0;0;76;73;57;78;76;65;69;86;70;12
+157304;Vermaelen;Thomas Vermaelen;77;5000000;110000;Belgium;Belgium;FC Barcelona;33;183;80;3;3;2;86;0;0;0;0;63;52;81;80;55;90;79;68;77;15
+200529;Chadli;Nacer Chadli;77;9000000;62000;Belgium;Belgium;AS Monaco;29;188;85;2;4;4;79;0;0;0;0;74;73;67;76;80;71;83;75;59;13
+200155;Vanaken;Hans Vanaken;79;15500000;27000;Belgium;Belgium;Club Brugge KV;26;196;80;1;5;4;75;0;0;0;0;71;74;73;84;77;47;76;75;45;11
+204529;Batshuayi;Michy Batshuayi Tunga;80;19000000;105000;Belgium;Belgium;Crystal Palace;25;185;78;2;5;4;77;0;0;0;0;65;82;75;64;78;80;78;75;63;15
+202371;Meunier;Thomas Meunier;82;21000000;87000;Belgium;Belgium;Paris Saint-Germain;27;191;90;2;4;3;84;0;0;1;0;83;76;75;82;75;72;85;78;73;9
+192984;Casteels;Koen Casteels;83;21500000;50000;Belgium;Belgium;VfL Wolfsburg;26;198;86;2;2;1;77;0;0;0;0;15;15;14;35;14;58;72;18;33;83
+203486;Hazard;Thorgan Hazard;83;31000000;47000;Belgium;Belgium;Borussia Monchengladbach;25;175;69;2;3;4;79;0;0;0;0;79;76;38;82;87;60;62;78;57;8
+139720;Kompany;Vincent Kompany;85;22000000;170000;Belgium;Belgium;Manchester City;32;191;85;4;3;2;85;0;1;0;0;61;45;83;73;63;72;87;55;87;6
+177413;Witsel;Axel  Witsel;85;30000000;84000;Belgium;Belgium;Borussia Dortmund;30;188;81;3;4;4;81;0;0;0;0;69;71;81;89;78;76;82;77;81;7
+192505;Lukaku;Romelu Lukaku;86;55000000;215000;Belgium;Belgium;Manchester United;25;191;94;3;3;3;82;0;0;0;1;72;86;85;76;78;71;94;74;71;10
+183277;Hazard;Eden Hazard;91;93000000;340000;Belgium;Belgium;Chelsea;28;173;76;4;4;4;83;0;0;0;1;81;84;61;89;95;56;66;80;54;8
+192985;De Bruyne;Kevin De Bruyne;91;102000000;355000;Belgium;Belgium;Manchester City;27;155;70;4;5;4;85;0;0;0;0;93;82;55;92;86;63;75;91;76;13
+230168;phaelito Anjos;Raphael William Anjos Rochedo;82;14000000;32000;Brazil;Brazil;Gremio;31;191;85;1;2;1;75;1;0;0;0;10;8;11;18;9;67;79;7;34;78
+230225;iano Mestres;Juan Everton Mestres de Mesquita;82;6500000;39000;Brazil;Brazil;Cruzeiro;35;155;82;1;3;2;73;0;0;0;0;40;56;83;67;60;91;79;61;86;18
+230258;sberto Dourado;Rosberto J. Dourado Santos;82;16500000;46000;Brazil;Brazil;Atletico Mineiro;31;175;70;1;4;2;74;0;0;0;0;61;53;70;82;77;43;68;59;75;9
+230234;erton Andrão;Everton Jorge Andrade Zanon;80;4500000;34000;Brazil;Brazil;Fluminense;35;152;75;1;4;2;73;0;0;1;0;75;58;59;78;75;67;71;64;81;8
+230347;lington Dano;Welington Kauê Dano Nascimento;80;10500000;34000;Brazil;Brazil;Cruzeiro;31;152;69;1;4;4;73;0;1;0;0;82;51;69;78;77;71;68;53;69;7
+230463;mão Acunha;Simão Alvin Acunha Bardini;77;8500000;35000;Brazil;Brazil;Atletico Mineiro;31;152;71;1;2;4;74;0;0;0;0;74;66;60;79;76;64;64;72;48;12
+230323;íquão Castro;Kaíque Osvaldo Castro Rodrigues;75;2700000;20000;Brazil;Brazil;Fluminense;35;191;88;1;2;1;73;0;0;0;0;9;8;10;20;9;67;81;7;36;73
+230274;ni Rochelinhas;Danilo Manuel Aldair Rochela;75;7000000;17000;Brazil;Brazil;Chapecoense;27;152;75;1;3;4;71;0;0;0;0;66;64;51;74;75;51;54;62;57;10
+230475;ilson Edrada;Adilson Patrick Edrada Pereira;75;7000000;18000;Brazil;Brazil;Santos;27;175;72;1;3;3;71;0;0;0;0;63;73;56;76;75;69;59;73;43;13
+230183;zzolisco;Gérson Adriano Gutierres Serra;77;6500000;26000;Brazil;Brazil;Internacional;31;185;73;1;5;3;74;0;0;0;0;76;54;77;77;71;72;82;77;94;10
+230269;audio Coíntra;Claudio Nuno Coíntra Calegari;78;5000000;30000;Brazil;Brazil;Internacional;35;175;71;1;5;4;74;0;0;0;0;74;73;45;75;75;58;57;68;42;8
+230360;erticinho;Everton Jorge Simão Resende;78;7500000;29000;Brazil;Brazil;Gremio;31;175;75;1;3;4;75;0;0;0;0;76;69;60;76;76;61;68;74;73;7
+230431;dney Pessinho;Sidney Adrián Pessoa Vidigal;78;9000000;27000;Brazil;Brazil;Internacional;27;188;85;1;3;2;74;0;0;0;0;71;56;62;75;72;61;88;72;77;7
+230201;ikel Catarino;Maikel Renan Catarino Fagundes;79;3600000;38000;Brazil;Brazil;Atletico Mineiro;35;152;75;1;3;3;74;0;1;0;0;81;48;69;73;78;51;62;56;62;15
+230212;tônio Chiamuloira;A. Benjamin Chiamuloira Paes;79;9500000;30000;Brazil;Brazil;Internacional;31;183;79;1;3;2;74;0;0;0;0;55;51;76;68;44;88;81;51;88;10
+230251;lvin Parrela;Melvin Luan Parrela Porfírio;79;9500000;20000;Brazil;Brazil;America FC (Minas Gerais);31;188;88;1;3;2;71;0;0;0;0;52;68;83;78;72;71;82;70;84;8
+230312;bri Prestão;Bernard Gabriel Prestão Chaves;79;9000000;24000;Brazil;Brazil;Internacional;27;185;80;1;3;1;74;0;0;0;0;8;9;7;11;18;60;60;12;35;82
+230498;imo Boas Santos;Luan Vágner Boas Macedo;79;12000000;26000;Brazil;Brazil;Santos;31;175;73;1;4;4;71;0;0;0;0;42;79;73;74;82;82;67;82;43;9
+230271;ure Santeiro;Laureano Thomas Santeiro Marre;81;17000000;40000;Brazil;Brazil;Fluminense;31;170;63;1;5;4;73;0;0;0;0;73;72;44;79;82;44;48;75;41;10
+230294;uri Beretta;Lourival Adnan Beretta Barbosa;83;28500000;60000;Brazil;Brazil;Atletico Mineiro;27;188;83;1;3;4;74;0;0;0;1;56;85;83;73;75;84;87;82;65;20
+230375;sué Chiamulera;Josué Durval Chiamulera Vaz;83;22500000;43000;Brazil;Brazil;Gremio;27;185;80;1;3;2;75;0;0;0;0;40;38;83;74;56;69;73;41;88;10
+230481;naldo Cabrais;Ronaldo Jailson Cabrais Petri;83;28000000;51000;Brazil;Brazil;Gremio;27;152;75;1;4;4;75;0;0;0;1;83;74;64;83;85;64;70;78;62;13
+190871;ymar Jr;Neymar da Silva Santos Junior;92;108000000;290000;Brazil;Brazil;Paris Saint-Germain;27;175;68;5;5;5;84;0;0;0;1;83;87;62;84;96;61;49;82;56;11
+239458;Kraev;Bozhidar Kraev;62;475000;3000;Bulgaria;Bulgaria;FC Midtjylland;21;185;70;1;3;3;71;0;0;0;1;49;61;56;66;65;55;49;63;44;9
+245977;Despodov;Kiril Despodov;63;550000;5000;Bulgaria;Bulgaria;Cagliari;22;152;69;1;3;3;75;0;0;1;0;45;65;48;59;66;60;61;60;54;13
+222225;Popov;Strahil Venkov Popov;70;1500000;8000;Bulgaria;Bulgaria;Kasimpasa SK;28;185;77;1;3;3;71;0;0;0;0;71;62;66;67;65;78;72;63;64;8
+197853;Aurier;Serge Aurier;80;15500000;82000;Ivory Coast;"Cote d""ivoire";Tottenham Hotspur;26;175;76;2;3;3;83;0;1;0;0;83;54;75;78;76;94;74;58;86;9
+209002;Sayouba;Mandé Sayouba;67;725000;3000;Ivory Coast;"Cote d""ivoire";Odense Boldklub;25;193;82;1;2;1;67;0;0;0;0;18;19;20;30;12;50;69;15;19;72
+229641;Bagayoko;Mamadou Bagayoko;68;700000;3000;Ivory Coast;"Cote d""ivoire";Red Star FC;29;175;66;1;3;3;65;0;0;0;0;69;21;52;56;63;70;61;25;71;9
+222883;Touré;Thomas Touré;69;1300000;9000;Ivory Coast;"Cote d""ivoire";Paris FC;25;175;72;1;3;3;66;0;0;0;0;69;61;67;72;71;70;64;68;66;8
+229606;Angban;Victorien Angban;71;3600000;4000;Ivory Coast;"Cote d""ivoire";FC Metz;22;155;75;1;4;3;71;0;0;0;0;60;47;42;74;69;66;74;56;81;13
+193177;Traoré;Adama Traoré;73;3200000;19000;Ivory Coast;"Cote d""ivoire";Goztepe SK;29;170;73;1;2;3;72;0;1;0;0;73;30;57;65;69;83;70;49;69;12
+195698;Doukouré;Cheick Doukouré;73;4500000;16000;Ivory Coast;"Cote d""ivoire";Levante UD;26;155;82;1;3;3;76;0;0;0;0;59;58;69;72;65;78;80;65;77;11
+189099;Kodjia;Jonathan Kodjia;74;6000000;21000;Ivory Coast;"Cote d""ivoire";Aston Villa;29;188;77;1;3;3;73;0;0;0;0;49;73;72;67;77;71;77;63;64;13
+228236;Deli;Simon Deli;74;6000000;1000;Ivory Coast;"Cote d""ivoire";SK Slavia Praha;27;193;84;1;3;2;72;0;0;0;0;28;37;78;64;62;77;80;32;70;10
+184082;Koné;Lamine Koné;75;5000000;14000;Ivory Coast;"Cote d""ivoire";RC Strasbourg Alsace;30;188;90;1;3;2;74;0;0;0;0;48;34;77;59;52;65;89;29;75;13
+170733;rvinho;Gervais Lombe Yao Kouassi;78;9000000;49000;Ivory Coast;"Cote d""ivoire";Parma;31;152;66;3;3;3;73;0;0;0;1;75;72;63;73;80;62;55;64;51;13
+182945;Gradel;Max-Alain Gradel;78;10000000;35000;Ivory Coast;"Cote d""ivoire";Toulouse Football Club;31;152;70;2;4;4;73;0;0;0;1;71;78;66;74;82;66;59;78;59;12
+230938;Kessié;Franck Yannick Kessié;79;19500000;24000;Ivory Coast;"Cote d""ivoire";Milan;22;183;76;2;4;3;80;0;0;1;0;66;64;68;79;78;79;87;76;86;10
+225508;Bailly;Eric Bailly;81;19500000;105000;Ivory Coast;"Cote d""ivoire";Manchester United;24;185;77;2;3;2;82;0;0;0;0;51;33;79;70;62;85;86;48;87;8
+226753;Onana;André Onana;80;14500000;14000;Cameroon;Cameroon;Ajax;22;188;93;2;3;1;78;1;0;0;0;15;12;20;33;26;80;67;17;29;80
+212948;Ondoa;Fabrice Ondoa;70;1800000;6000;Cameroon;Cameroon;KV Oostende;23;185;90;1;2;1;70;0;0;0;0;14;18;16;41;16;72;74;16;19;78
+213868;Castelletto;Jean-Charles Castelletto;69;1300000;3000;Cameroon;Cameroon;Stade Brestois 29;24;185;78;1;4;2;69;0;0;0;0;58;18;66;69;54;88;70;26;59;9
+211214;Olinga;Fabrice Olinga Essono;66;900000;3000;Cameroon;Cameroon;Royal Excel Mouscron;22;152;68;1;3;3;67;0;0;1;0;66;48;33;61;76;76;46;57;38;9
+224327;Leuko;Serge Sidoine Tchaha Leuko;67;850000;3000;Cameroon;Cameroon;CD Lugo;25;175;70;1;3;2;69;0;0;0;0;64;42;59;62;55;62;66;50;63;12
+178233;Djoum;Gilles Arnaud Sutchuin Djoum;67;725000;3000;Cameroon;Cameroon;Heart of Midlothian;29;183;78;1;3;3;67;0;0;0;0;52;60;53;68;66;69;70;60;50;12
+237469;uhou;Nouhou Tolo;68;1100000;2000;Cameroon;Cameroon;Seattle Sounders FC;21;152;79;1;2;3;70;0;0;0;0;57;28;50;63;64;84;76;33;77;6
+232183;Fai;Ngoran Suiru Fai Collins;72;3100000;10000;Cameroon;Cameroon;Standard de Liege;26;168;72;1;4;3;73;0;1;0;0;60;22;53;63;66;92;64;28;81;12
+227236;Zambo Anguissa;André Franck Zambo Anguissa;73;5000000;32000;Cameroon;Cameroon;Fulham;23;183;78;1;2;3;76;0;0;0;0;58;42;73;73;72;75;82;54;80;11
+212273;Njie;Clinton Mua N'Jie;73;5000000;31000;Cameroon;Cameroon;Olympique de Marseille;25;175;68;1;2;3;78;0;0;0;0;67;72;64;67;72;68;61;61;62;11
+236690;Ngadeu-Ngadjui;Michael Ngadeu-Ngadjui;74;5500000;1000;Cameroon;Cameroon;SK Slavia Praha;28;191;93;1;5;2;72;0;0;0;0;38;39;72;67;53;72;92;61;76;5
+240190;Kunde Malong;Pierre Kunde Malong;74;6500000;18000;Cameroon;Cameroon;1. FSV Mainz 05;23;155;79;1;4;3;75;0;0;0;0;70;64;54;78;70;74;84;74;75;9
+111661;Kameni;Carlos Idriss Kameni;74;2300000;36000;Cameroon;Cameroon;Fenerbahce SK;35;185;86;2;3;1;76;0;0;0;0;12;11;13;27;15;70;79;12;34;75
+201533;Ntep;Paul-Georges Ntep de Madiba;75;8000000;36000;Cameroon;Cameroon;VfL Wolfsburg;26;155;75;2;4;3;77;0;0;0;0;71;65;43;73;80;49;73;69;70;6
+183569;Choupo-Moting;Jean-Eric Maxim Choupo-Moting;77;9000000;75000;Cameroon;Cameroon;Paris Saint-Germain;29;191;91;2;4;4;84;0;0;0;0;65;75;74;74;83;67;76;64;55;6
+224069;Toko-Ekambi;Karl Brillant Toko Ekambi;79;15000000;38000;Cameroon;Cameroon;Villarreal CF;26;185;74;2;4;3;79;0;0;0;0;74;80;74;69;80;71;77;72;43;14
+188829;Nkoulou;Nicolas N'Koulou;80;12000000;50000;Cameroon;Cameroon;Torino;28;183;77;3;3;3;77;0;0;0;0;60;33;77;72;68;83;78;46;76;7
+134744;Hutchinson;Atiba Hutchinson;76;1800000;28000;Canada;Canada;Besiktas JK;36;188;83;2;4;2;77;0;0;0;0;69;61;75;82;73;62;79;59;69;16
+221657;Akindele;Tesho Akindele;66;775000;3000;Canada;Canada;Orlando City SC;27;185;79;1;2;3;68;0;0;0;0;45;63;64;58;64;69;76;56;62;7
+243574;Brault-Guillard;Zachary Brault-Guillard;60;400000;3000;Canada;Canada;Montreal Impact;20;170;66;1;3;2;70;0;1;0;0;55;26;54;56;66;73;66;34;54;11
+233743;Tabla;Ballou Tabla;63;800000;1000;Canada;Canada;Albacete BP;19;175;70;1;4;3;70;0;0;0;0;52;53;44;62;71;34;40;66;68;11
+243009;Cornelius;Derek Cornelius;64;650000;1000;Canada;Canada;Vancouver Whitecaps FC;21;188;86;1;3;2;67;0;0;0;0;33;18;62;51;32;73;77;21;70;6
+201208;Henry;Doneil Henry;65;600000;2000;Canada;Canada;Vancouver Whitecaps FC;25;188;82;1;2;2;67;0;0;0;0;43;36;67;55;44;80;77;47;81;15
+191218;Jakovi?;Dejan Jakovi?;66;375000;2000;Canada;Canada;Los Angeles FC;33;188;80;1;2;2;70;0;0;0;0;17;30;61;54;42;68;82;43;79;8
+201869;Teibert;Russell Teibert;66;700000;2000;Canada;Canada;Vancouver Whitecaps FC;26;173;66;1;3;3;67;0;0;0;0;65;53;49;70;66;47;56;52;68;11
+213536;Crépeau;Maxime Crépeau;66;650000;2000;Canada;Canada;Vancouver Whitecaps FC;24;155;90;1;2;1;67;0;0;0;0;19;17;14;28;15;53;69;14;34;69
+227847;James;Manjrekar James;67;875000;6000;Canada;Canada;FC Midtjylland;25;193;84;1;4;2;71;0;0;0;0;34;29;65;64;49;79;84;51;75;12
+164568;Johnson;Will Johnson;69;700000;4000;Canada;Canada;Orlando City SC;32;152;72;1;4;3;68;0;0;0;0;56;59;60;72;64;64;70;67;75;12
+238922;Kaye;Mark-Anthony Kaye;69;1500000;4000;Canada;Canada;Los Angeles FC;24;185;77;1;3;3;70;0;0;0;0;63;47;55;73;68;65;67;49;69;6
+243630;David;Jonathan David;70;3700000;7000;Canada;Canada;KAA Gent;19;152;77;1;4;3;72;0;0;0;0;42;74;64;63;71;78;67;61;25;7
+213439;Osorio;Jonathan Osorio;71;2800000;6000;Canada;Canada;Toronto FC;26;175;73;1;4;3;69;0;0;0;0;59;67;51;75;73;54;57;66;69;13
+213092;Piette;Samuel Piette;71;2700000;5000;Canada;Canada;Montreal Impact;24;170;79;1;2;2;70;0;0;1;0;48;43;58;70;60;74;73;49;81;9
+234396;Davies;Alphonso Davies;72;6000000;20000;Canada;Canada;FC Bayern Munchen;18;155;72;1;4;4;85;0;0;1;0;62;64;51;64;76;72;69;63;68;14
+226777;Larin;Cyle Larin;74;8000000;37000;Canada;Canada;Besiktas JK;23;188;90;1;4;3;77;0;0;0;1;35;77;76;62;67;63;84;68;63;7
+178287;Arfield;Scott Arfield;74;5500000;44000;Canada;Canada;Rangers FC;30;152;80;1;3;3;73;0;0;0;0;69;70;59;75;73;69;70;65;69;16
+189462;Hoilett;David Junior Hoilett;74;5500000;44000;Canada;Canada;Cardiff City;28;173;70;2;3;3;73;0;0;1;0;71;68;58;68;76;71;63;73;66;9
+193532;Medel;Gary Alexis Medel Soto;79;9500000;50000;Chile;Chile;Besiktas JK;31;170;65;3;4;3;77;0;0;0;0;50;31;68;79;63;82;83;59;89;6
+219145;Maripán;Guillermo Alfonso Maripán Loaysa;77;10000000;20000;Chile;Chile;Deportivo Alaves;24;193;83;1;2;2;76;0;0;0;0;41;28;75;66;40;68;92;24;75;12
+187800;Isla;Mauricio Aníbal Isla Isla;75;4800000;48000;Chile;Chile;Fenerbahce SK;30;175;75;2;3;3;76;0;1;0;0;78;41;58;75;75;66;68;66;76;7
+212225;Roco;Enzo Pablo Roco Roco;74;6000000;33000;Chile;Chile;Besiktas JK;26;193;79;2;3;2;77;0;0;0;0;40;43;79;70;55;78;82;39;66;13
+209827;Fernandes;Júnior Fernandes;75;6500000;15000;Chile;Chile;Alanyaspor;30;183;78;1;4;4;72;0;0;0;0;70;76;77;74;78;67;79;72;70;14
+203796;Gutiérrez;Felipe Alejandro Gutiérrez Leiva;75;7000000;9000;Chile;Chile;Sporting Kansas City;28;170;64;2;4;3;71;0;0;0;0;70;68;51;78;70;48;58;70;68;14
+213629;Pulgar;Erick Pulgar;77;10000000;26000;Chile;Chile;Bologna;25;185;83;1;2;3;75;0;0;0;0;58;44;69;78;74;79;77;66;75;11
+199042;Aránguiz;Charles Mariano Aránguiz Sandoval;81;17000000;76000;Chile;Chile;Bayer 04 Leverkusen;29;170;70;2;4;3;80;0;0;0;0;78;64;53;85;75;61;63;75;80;13
+184941;Sánchez;Alexis Alejandro Sánchez Sánchez;84;30500000;195000;Chile;Chile;Manchester United;30;170;62;4;3;4;82;0;0;0;1;77;79;70;76;85;87;72;80;79;13
+181872;Vidal;Arturo Vidal;85;33000000;225000;Chile;Chile;FC Barcelona;31;155;75;4;4;3;86;0;0;0;1;76;75;82;83;77;85;79;85;93;4
+198710;Rodrrguez;James David Rodríguez Rubio;87;59000000;260000;Colombia;Colombia;FC Bayern Munchen;27;155;75;4;3;4;85;0;0;0;0;90;83;62;89;85;54;68;92;64;14
+220793;Sánchez;Davinson Sánchez;84;34000000;105000;Colombia;Colombia;Tottenham Hotspur;22;188;79;2;3;2;83;0;0;0;0;36;40;80;77;63;73;83;44;87;15
+199110;Muriel;Luis Fernando Muriel Fruto;80;17500000;24000;Colombia;Colombia;Fiorentina;27;152;79;2;4;4;76;0;0;0;0;62;78;65;75;85;62;77;65;50;6
+201377;Murillo;Jeison Fabián Murillo Cerón;80;16000000;38000;Colombia;Colombia;FC Barcelona;26;183;78;2;2;2;86;0;0;0;0;56;37;76;68;58;89;80;13;88;14
+213991;Lerma;Jefferson Andrés Lerma Solís;79;14000000;55000;Colombia;Colombia;Bournemouth;24;152;70;1;4;3;77;0;0;0;0;66;56;65;77;69;84;76;75;83;9
+214343;Moreno;Didier Andrés Moreno Asprilla;70;1800000;2000;Colombia;Colombia;Deportivo de La Coruna;27;152;71;1;2;2;73;0;0;0;0;47;30;61;69;57;38;79;36;71;12
+237034;Hernández;Juan Camilo Hernández;75;9000000;26000;Colombia;Colombia;SD Huesca;19;175;73;1;4;3;72;0;0;0;0;58;78;69;67;73;72;76;74;65;6
+176550;Ospina;David Ospina Ramírez;79;8500000;80000;Colombia;Colombia;Napoli;30;183;80;2;3;1;82;1;0;0;0;11;10;15;36;12;75;38;12;20;85
+204259;Arias;Santiago Arias Naranjo;79;12000000;50000;Colombia;Colombia;Atletico Madrid;27;152;72;2;3;3;84;0;1;0;0;74;51;67;74;74;82;69;50;79;16
+207664;Bacca;Carlos Arturo Bacca Ahumada;80;13500000;42000;Colombia;Colombia;Villarreal CF;32;155;77;3;2;3;79;0;0;0;0;60;80;75;68;78;74;74;60;58;8
+167397;lcao;Radamel Falcao García Zárate;84;25000000;115000;Colombia;Colombia;AS Monaco;33;152;72;3;4;3;79;0;0;0;0;55;86;89;79;75;91;75;80;75;5
+193082;Cuadrado;Juan Cuadrado;84;29500000;150000;Colombia;Colombia;Juventus;30;152;72;3;3;5;85;0;0;0;0;80;67;58;80;90;75;61;80;78;9
+205365;Kopic;Jan Kopic;74;5500000;1000;Czech Republic;Czech Republic;Viktoria Plzen;28;155;79;1;4;3;72;0;0;0;0;74;68;48;70;76;59;58;73;53;6
+204125;Bo?il;Jan Bo?il;73;3300000;1000;Czech Republic;Czech Republic;SK Slavia Praha;28;175;75;1;4;3;72;0;1;0;0;73;42;68;64;63;72;72;58;82;15
+198429;Tecl;Stanislav Tecl;71;2500000;1000;Czech Republic;Czech Republic;SK Slavia Praha;28;155;82;1;2;3;72;0;0;0;1;56;74;70;63;69;67;71;54;70;14
+204121;Brabec;Jakub Brabec;70;1900000;1000;Czech Republic;Czech Republic;Viktoria Plzen;26;188;83;1;3;2;72;0;0;0;0;54;42;69;61;56;54;76;56;72;7
+244467;Kolá?;Ond?ej Kolá?;70;1800000;1000;Czech Republic;Czech Republic;SK Slavia Praha;24;193;81;1;3;1;72;0;0;0;0;13;7;11;38;25;33;60;8;17;74
+204939;Petrák;Ond?ej Petrák;71;2500000;14000;Czech Republic;Czech Republic;1. FC Nurnberg;26;185;79;1;3;3;72;0;0;0;0;59;30;75;71;64;79;73;67;57;11
+180823;?ezník;Radim ?ezník;71;1800000;1000;Czech Republic;Czech Republic;Viktoria Plzen;30;183;80;1;3;3;72;0;0;0;0;73;58;62;54;66;70;75;53;73;10
+201122;Kalas;Tomáš Kalas;72;3400000;26000;Czech Republic;Czech Republic;Bristol City;25;183;80;1;3;2;70;0;0;0;0;51;38;73;68;61;81;76;65;66;7
+236548;Zmrhal;Jaromír Zmrhal;72;3900000;1000;Czech Republic;Czech Republic;SK Slavia Praha;25;188;79;1;2;3;72;0;0;1;0;73;69;59;70;69;51;66;72;57;11
+189600;Hušbauer;Josef Hušbauer;73;4000000;1000;Czech Republic;Czech Republic;SK Slavia Praha;28;183;76;1;3;3;72;0;0;0;0;76;61;49;74;73;59;59;82;61;6
+181123;Ho?ava;Tomáš Ho?ava;73;3700000;1000;Czech Republic;Czech Republic;Viktoria Plzen;30;183;70;1;3;3;72;0;0;0;1;64;61;57;76;73;66;58;71;55;14
+205478;Krmen?ík;Michael Krmen?ík;75;9000000;1000;Czech Republic;Czech Republic;Viktoria Plzen;25;191;90;1;3;3;72;0;0;0;0;55;77;76;66;70;58;84;65;78;13
+236792;Sou?ek;Tomáš Sou?ek;76;10000000;1000;Czech Republic;Czech Republic;SK Slavia Praha;24;193;86;1;3;3;72;0;0;0;0;52;54;74;75;63;70;77;62;70;8
+186330;Gebre Selassie;Theodor Gebre Selassie;76;5000000;24000;Czech Republic;Czech Republic;SV Werder Bremen;32;155;71;2;2;3;77;0;0;0;0;75;49;80;76;76;89;67;39;71;14
+200332;Koubek;Tomáš Koubek;76;7000000;21000;Czech Republic;Czech Republic;Stade Rennais FC;26;198;95;1;2;1;75;1;0;0;0;13;12;13;14;17;53;79;17;31;76
+226592;Jankto;Jakub Jankto;76;11500000;23000;Czech Republic;Czech Republic;Sampdoria;23;155;74;2;3;4;76;0;0;1;0;70;66;68;78;76;62;64;74;68;15
+234236;Schick;Patrik Schick;77;13500000;53000;Czech Republic;Czech Republic;Roma;23;185;73;2;2;4;80;0;0;0;0;64;77;74;74;82;69;70;73;59;14
+201262;Darida;Vladimír Darida;77;9000000;29000;Czech Republic;Czech Republic;Hertha BSC;28;170;64;2;4;3;77;0;0;0;0;71;68;41;78;75;77;48;76;56;14
+203605;Kade?ábek;Pavel Kade?ábek;80;14000000;39000;Czech Republic;Czech Republic;TSG 1899 Hoffenheim;26;183;81;2;2;3;78;0;0;0;0;86;28;71;77;76;69;79;41;78;7
+204120;Vaclík;Tomáš Vaclík;80;11500000;17000;Czech Republic;Czech Republic;Sevilla FC;29;188;85;1;3;1;80;0;0;0;0;15;14;19;17;14;70;73;16;29;85
+190460;Eriksen;Christian  Dannemann Eriksen;88;69500000;205000;Denmark;Denmark;Tottenham Hotspur;27;155;76;3;5;4;83;0;0;0;1;88;81;52;91;84;50;58;89;46;6
+172143;Schøne;Lasse Schøne;77;6500000;19000;Denmark;Denmark;Ajax;32;152;78;2;3;3;78;0;0;0;0;81;67;60;83;76;77;57;81;65;11
+172553;Lössl;Jonas Lössl;76;6000000;34000;Denmark;Denmark;Huddersfield Town;30;196;88;1;2;1;75;0;0;0;0;14;12;17;35;15;51;67;15;17;77
+193133;Stryger Larsen;Jens Stryger Larsen;74;4600000;21000;Denmark;Denmark;Udinese;28;183;82;1;3;3;75;0;1;0;0;70;48;60;66;68;78;77;58;74;9
+201943;Cornelius;Andreas Evald Cornelius;74;7500000;24000;Denmark;Denmark;FC Girondins de Bordeaux;25;193;91;2;3;3;74;0;0;0;0;42;75;79;67;66;72;93;68;72;9
+199748;Knudsen;Jonas Knudsen;69;1100000;5000;Denmark;Denmark;Ipswich Town;26;185;82;1;3;2;68;0;0;0;0;67;25;64;62;62;70;69;64;66;15
+190633;Dalsgaard;Henrik Dalsgaard;71;1900000;25000;Denmark;Denmark;Brentford;29;193;81;1;3;3;70;0;1;0;0;70;58;62;64;66;65;73;54;68;8
+183781;Bjelland;Andreas Bjelland;74;4400000;18000;Denmark;Denmark;FC Kobenhavn;30;188;85;1;3;2;71;0;0;0;0;50;36;72;70;55;79;84;51;68;11
+172517;Jensen;Mike Lindemann Jensen;74;5000000;8000;Denmark;Denmark;Rosenborg BK;31;152;75;1;4;3;70;0;0;0;0;70;65;56;76;75;61;74;70;83;9
+201269;Rønnow;Frederik Rønnow;75;6500000;21000;Denmark;Denmark;Eintracht Frankfurt;26;191;77;1;2;1;78;0;0;0;0;14;9;12;25;13;63;67;13;17;77
+193290;Braithwaite;Martin Braithwaite;75;8000000;53000;Denmark;Denmark;CD Leganes;27;152;73;2;4;4;75;0;0;0;0;68;73;66;71;75;84;76;69;69;8
+217605;Lerager;Lukas Reiff Lerager;75;8500000;31000;Denmark;Denmark;Genoa;25;185;85;1;3;3;74;0;0;0;0;62;66;74;76;68;74;69;68;76;13
+228687;Dolberg;Kasper Dolberg;76;12000000;15000;Denmark;Denmark;Ajax;21;188;83;2;4;3;78;0;0;0;0;42;76;70;69;75;71;76;77;38;7
+183491;Jørgensen;Mathias Jørgensen;77;8500000;45000;Denmark;Denmark;Huddersfield Town;28;191;85;1;2;2;75;0;0;0;0;47;34;77;70;46;74;82;30;85;13
+203965;Fischer;Viktor Fischer;77;11500000;20000;Denmark;Denmark;FC Kobenhavn;24;155;80;2;4;4;71;0;0;0;0;67;75;49;75;79;56;67;69;68;15
+199852;Jørgensen;Nicolai Jørgensen;77;9500000;17000;Denmark;Denmark;Feyenoord;28;191;83;2;3;3;75;0;0;0;1;68;79;74;72;74;68;84;75;60;7
+212196;Sisto;Pione Sisto Ifolo Emirmija;78;14000000;25000;Denmark;Denmark;RC Celta;24;173;69;1;4;4;77;0;0;0;1;78;76;51;70;86;82;64;72;52;11
+202849;Vestergaard;Jannik Vestergaard;79;12500000;48000;Denmark;Denmark;Southampton;26;198;98;2;4;2;76;0;0;0;0;46;34;85;67;44;33;91;47;84;10
+207791;Poulsen;Yussuf Yurary Poulsen;80;18500000;55000;Denmark;Denmark;RB Leipzig;24;193;78;2;3;3;79;0;0;0;1;69;78;85;75;75;84;79;59;84;8
+213661;Christensen;Andreas Christensen;80;18000000;85000;Denmark;Denmark;Chelsea;22;188;81;2;3;2;83;0;0;0;0;49;36;80;77;66;72;73;20;73;8
+179645;Kjær;Simon Thorup Kjær;81;14000000;23000;Denmark;Denmark;Sevilla FC;29;188;84;3;3;2;80;0;0;0;0;54;55;82;73;46;70;80;41;75;15
+193283;Delaney;Thomas Delaney;82;21500000;61000;Denmark;Denmark;Borussia Dortmund;27;183;79;2;4;3;81;0;0;0;0;67;72;83;79;73;91;79;74;84;15
+163587;Schmeichel;Kasper Schmeichel;83;15500000;71000;Denmark;Denmark;Leicester City;32;188;89;2;3;1;78;1;0;0;0;18;12;16;44;12;60;64;14;35;88
+186805;Montero;Jefferson Antonio Montero Vite;75;6500000;29000;Ecuador;Ecuador;West Bromwich Albion;29;173;70;2;3;4;74;0;0;1;0;72;66;50;68;81;69;68;68;40;12
+225680;Mina;Arturo Mina;73;3800000;11000;Ecuador;Ecuador;Yeni Malatyaspor;28;191;84;1;3;2;70;0;0;0;0;43;30;77;68;47;76;92;33;67;12
+246057;Méndez;Sebastián Méndez;65;725000;2000;Ecuador;Ecuador;Orlando City SC;21;152;70;1;3;2;68;0;0;0;0;62;56;62;69;58;66;58;62;67;13
+241498;Ibarra;Romario Ibarra;69;1400000;4000;Ecuador;Ecuador;Minnesota United FC;24;175;76;1;4;3;71;0;0;0;0;71;64;62;70;67;59;71;55;41;14
+221860;Gruezo;Carlos Armando Gruezo Arboleda;72;3700000;5000;Ecuador;Ecuador;FC Dallas;23;170;67;1;3;2;69;0;0;1;0;43;41;58;75;60;69;72;42;85;11
+167905;Valencia;Luis Antonio Valencia Mosquera;79;7000000;110000;Ecuador;Ecuador;Manchester United;33;155;83;2;2;3;82;0;0;1;0;78;60;62;79;78;69;79;66;80;7
+209331;Salah;Mohamed  Salah Ghaly;89;78500000;265000;Egypt;Egypt;Liverpool;26;175;71;3;3;4;83;0;0;1;0;78;90;59;83;89;68;70;83;63;14
+213051;Elneny;Mohamed Elneny;77;9000000;76000;Egypt;Egypt;Arsenal;26;155;74;1;3;3;82;0;0;0;0;66;57;57;78;68;69;68;67;73;6
+197975;Morsy;Sam Morsy;70;1700000;26000;Egypt;Egypt;Wigan Athletic;27;173;75;1;3;3;69;0;0;0;0;52;53;47;70;69;80;77;60;81;13
+191005;Elmohamady;Ahmed Eissa  El Mohamady Abdel Fattah;70;1300000;10000;Egypt;Egypt;Aston Villa;31;183;78;2;3;3;73;0;0;0;0;72;61;72;71;68;81;72;66;59;7
+210259;Hassan;Ahmed Hassan;74;7500000;1000;Egypt;Egypt;Olympiacos CFP;26;191;86;1;3;3;75;0;0;0;0;30;75;79;63;70;51;87;67;79;11
+210648;Hegazi;Ahmed Hegazi;76;7500000;31000;Egypt;Egypt;West Bromwich Albion;28;193;95;1;2;2;74;0;0;0;0;18;17;77;59;49;75;85;15;83;8
+226078;ezeguet;Mahmoud Hassan;78;13000000;15000;Egypt;Egypt;Kasimpasa SK;24;152;78;3;5;4;71;0;0;1;0;78;75;42;76;83;65;67;76;45;7
+183711;Henderson;Jordan Brian Henderson;82;18000000;125000;England;England;Liverpool;28;183;80;2;3;3;83;0;0;0;0;81;67;65;84;73;79;72;71;77;13
+186345;Trippier;Kieran Trippier;82;18500000;99000;England;England;Tottenham Hotspur;28;152;72;2;4;3;83;0;0;0;0;91;48;73;79;75;73;65;70;70;10
+202335;Dier;Eric Dier;80;16500000;73000;England;England;Tottenham Hotspur;25;188;90;2;3;2;83;0;0;1;0;67;52;82;77;65;77;89;72;91;9
+203042;Butland;Jack Butland;80;14000000;39000;England;England;Stoke City;25;196;95;2;3;1;73;0;0;0;0;11;16;12;40;21;76;79;13;40;84
+152908;Young;Ashley Young;79;7000000;110000;England;England;Manchester United;33;175;65;2;3;4;82;0;0;0;0;83;64;57;78;77;55;67;65;83;15
+186146;Welbeck;Daniel Nii Tackie Mensah Welbeck;77;9500000;95000;England;England;Arsenal;28;185;73;3;3;3;82;0;0;0;0;69;75;78;75;78;80;75;69;75;16
+220697;Maddison;James Maddison;77;13000000;45000;England;England;Leicester City;22;175;73;1;4;4;78;0;0;0;0;76;69;30;78;77;54;40;73;56;14
+225100;Gomez;Joe Gomez;78;14500000;61000;England;England;Liverpool;21;188;77;1;3;3;83;0;0;0;0;69;26;68;72;67;66;80;26;70;7
+229984;Chilwell;Ben Chilwell;78;12500000;43000;England;England;Leicester City;22;152;77;1;3;3;78;0;0;0;0;76;43;67;73;77;78;68;38;68;10
+199189;Barkley;Ross Barkley;79;16000000;89000;England;England;Chelsea;25;185;87;2;5;4;83;0;0;0;0;65;68;65;82;83;62;77;80;74;10
+203841;Pope;Nick Pope;79;11000000;45000;England;England;Burnley;26;201;76;1;3;1;77;0;0;0;0;11;14;11;32;15;72;73;15;36;79
+222400;Winks;Harry Winks;79;17500000;77000;England;England;Tottenham Hotspur;23;175;74;1;3;3;83;0;0;0;0;65;54;50;83;79;51;63;62;61;10
+231281;Alexander-Arnold;Trent Alexander-Arnold;79;17000000;40000;England;England;Liverpool;20;155;69;1;4;3;83;0;0;0;0;83;56;59;76;75;66;62;63;73;7
+169595;Rose;Danny Rose;81;14500000;92000;England;England;Tottenham Hotspur;28;175;76;3;3;3;83;0;1;0;0;82;57;62;76;80;75;72;67;87;13
+203263;Maguire;Harry Maguire;82;23500000;77000;England;England;Leicester City;26;193;100;1;3;2;78;0;0;0;0;44;43;87;77;70;74;89;45;84;9
+207494;Lingard;Jesse Lingard;82;26500000;150000;England;England;Manchester United;26;175;62;2;3;4;82;0;0;0;0;74;79;67;79;84;65;53;80;73;9
+203574;Stones;John Stones;83;28500000;125000;England;England;Manchester City;24;188;70;2;4;3;85;0;0;0;0;62;29;83;81;69;75;77;38;79;8
+204935;Pickford;Jordan Pickford;83;25000000;78000;England;England;Everton;25;185;77;1;4;1;79;1;0;0;0;17;19;15;55;14;72;70;13;30;86
+231677;Rashford;Marcus Rashford;83;37500000;130000;England;England;Manchester United;21;185;70;2;4;5;82;0;0;0;1;74;79;73;76;84;68;76;79;73;14
+188377;Walker;Kyle Walker;84;24500000;165000;England;England;Manchester City;28;183;70;3;2;2;85;0;1;0;0;81;51;74;78;79;83;77;69;78;8
+211117;Alli;Bamidele Alli;85;51500000;125000;England;England;Tottenham Hotspur;22;188;80;3;3;4;83;0;0;0;0;69;83;83;85;83;67;71;80;84;8
+202652;Sterling;Raheem Sterling;87;62000000;210000;England;England;Manchester City;24;170;69;3;3;4;85;0;0;0;1;78;79;38;84;88;57;52;75;38;9
+202126;Kane;Harry Kane;90;96500000;210000;England;England;Tottenham Hotspur;25;188;89;3;4;3;83;0;0;0;1;75;94;86;82;80;79;84;86;78;11
+159017;Hämäläinen;Kasper Hämäläinen;70;1600000;6000;Finland;Finland;Legia Warszawa;32;188;74;1;3;3;70;0;0;0;0;59;71;73;70;65;66;69;68;48;15
+157734;Jaakkola;Anssi Jaakkola;66;400000;7000;Finland;Finland;Reading;31;193;88;1;1;1;70;0;0;0;0;15;12;10;49;11;74;66;14;41;70
+206004;Ojala;Juhani Ojala;66;575000;2000;Finland;Finland;BK HÃ¤cken;29;191;85;1;2;2;67;0;0;0;0;41;17;72;58;42;28;91;27;58;7
+172232;Toivio;Joona Toivio;65;400000;1000;Finland;Finland;BK Hacken;30;185;87;1;3;2;67;0;0;0;0;55;42;65;58;47;76;75;55;64;13
+232023;Pelvas;Akseli Pelvas;62;300000;1000;Finland;Finland;HJK Helsinki;30;155;77;1;3;2;60;0;0;0;0;52;63;41;54;61;55;57;65;36;6
+236047;Granlund;Albin Granlund;62;240000;1000;Finland;Finland;Orebro SK;29;152;79;1;4;2;63;0;0;0;0;57;32;46;55;52;65;65;34;58;11
+208018;Lam;Thomas Lam;67;825000;3000;Finland;Finland;PEC Zwolle;25;188;76;1;4;2;68;0;0;0;0;49;51;59;67;61;64;71;56;74;12
+221662;Skrabb;Simon Skrabb;68;1200000;3000;Finland;Finland;IFK Norrkoping;24;175;75;1;2;3;67;0;0;0;0;53;70;54;66;67;77;68;63;55;14
+224436;Väisänen;Sauli Väisänen;68;950000;5000;Finland;Finland;Crotone;24;191;75;1;3;2;69;0;0;0;0;55;35;69;56;56;69;74;39;75;13
+213654;Kamara;Glen Kamara;68;1300000;17000;Finland;Finland;Rangers FC;23;183;73;1;4;3;73;0;0;0;0;43;38;41;70;65;61;69;55;68;7
+164858;Sparv;Tim Sparv;70;1500000;13000;Finland;Finland;FC Midtjylland;32;193;84;1;2;2;71;0;0;0;0;59;47;70;72;58;30;78;64;82;14
+199904;Joronen;Jesse Joronen;70;1600000;8000;Finland;Finland;FC Kobenhavn;25;198;89;1;2;1;71;1;0;0;0;15;13;18;17;16;37;60;13;37;70
+198479;Arajuuri;Paulus Arajuuri;70;1300000;14000;Finland;Finland;Brondby IF;30;193;92;1;2;2;68;0;0;0;0;27;36;71;58;39;72;92;24;84;8
+228312;Lod;Robin Lod;71;3000000;7000;Finland;Finland;Real Sporting de Gijon;25;155;76;1;4;3;72;0;0;1;0;67;70;56;74;71;55;67;74;56;10
+234889;Jensen;Fredrik Jensen;71;3700000;11000;Finland;Finland;FC Augsburg;21;183;80;1;3;3;74;0;0;0;1;68;68;56;70;75;68;75;66;64;7
+213763;Schüller;Rasmus Schüller;71;2300000;5000;Finland;Finland;Minnesota United FC;27;152;67;1;3;3;71;0;0;0;0;47;52;59;68;63;61;62;59;77;14
+207593;Uronen;Jere Uronen;73;4500000;11000;Finland;Finland;KRC Genk;24;152;74;1;4;3;74;0;1;0;0;73;47;56;70;68;71;69;65;71;8
+190362;Pukki;Teemu Pukki;75;7000000;31000;Finland;Finland;Norwich City;28;155;80;1;3;3;72;0;0;0;1;45;78;60;70;71;75;67;64;56;7
+190941;Hrádecký;Lukáš Hrádecký;84;22000000;74000;Finland;Finland;Bayer 04 Leverkusen;29;193;85;2;3;1;80;0;0;0;0;11;11;11;15;10;69;55;14;31;88
+195864;Pogba;Paul Pogba;88;73000000;255000;France;France;Manchester United;25;191;84;4;4;5;82;0;0;0;0;80;75;75;86;87;83;87;82;78;3
+231747;Mbapp?;Kylian Mbappé;88;81000000;100000;France;France;Paris Saint-Germain;20;152;73;3;4;5;84;0;0;1;0;77;88;77;82;90;75;71;78;62;6
+194765;Griezmann;Antoine Griezmann;89;78000000;145000;France;France;Atletico Madrid;27;175;73;4;3;4;84;0;0;0;1;82;89;84;84;87;90;62;82;73;14
+231443;Dembélé;Ousmane Dembélé;84;46000000;170000;France;France;FC Barcelona;21;152;67;3;5;4;86;0;0;0;0;81;78;43;79;91;59;52;76;54;13
+213565;Lemar;Thomas Lemar;83;35500000;64000;France;France;Atletico Madrid;23;170;62;3;2;4;84;0;0;0;0;83;75;54;84;85;71;63;78;63;14
+235569;Ndombele;Tanguy NDombèlé Alvaro;80;22500000;51000;France;France;Olympique Lyonnais;22;155;76;1;3;4;79;0;0;0;0;67;59;56;83;86;63;78;70;81;7
+183285;Sakho;Mamadou Sakho;79;11500000;58000;France;France;Crystal Palace;29;188;83;3;2;2;77;0;0;0;0;58;23;74;77;50;75;91;38;87;8
+201042;Sidibé;Djibril Sidibé;79;12000000;61000;France;France;AS Monaco;26;183;81;2;4;3;79;0;0;0;0;78;62;72;79;77;83;75;68;76;7
+204311;Zouma;Kurt Happy Zouma;79;14000000;80000;France;France;Everton;24;191;96;2;3;2;79;0;0;0;0;49;47;79;63;50;89;91;49;83;15
+226851;Pavard;Benjamin Pavard;79;14500000;32000;France;France;VfB Stuttgart;22;185;76;1;3;3;76;0;1;0;0;66;37;73;78;66;86;74;48;72;15
+187936;Nzonzi;Steven N'Kemboanza Mike Christopher Nzonzi;81;14000000;71000;France;France;Roma;30;196;75;2;3;2;80;0;0;0;0;59;50;78;82;70;75;92;57;82;13
+193105;Areola;Alphonse Areola;81;17000000;61000;France;France;Paris Saint-Germain;26;196;94;2;3;1;84;0;0;0;0;20;19;14;41;12;59;80;14;26;84
+200458;Digne;Lucas Digne;81;18500000;85000;France;France;Everton;25;152;74;2;3;3;79;0;0;0;0;82;52;70;81;77;84;70;71;75;13
+163705;Mandanda;Steve Mandanda;82;11000000;46000;France;France;Olympique de Marseille;33;185;82;3;3;1;78;0;0;0;0;14;13;13;37;15;74;61;11;37;84
+178509;Giroud;Olivier Giroud;82;20000000;140000;France;France;Chelsea;32;193;92;3;3;3;83;0;0;0;1;64;83;90;79;70;84;88;74;76;5
+177388;Payet;Dimitri  Payet;83;22500000;69000;France;France;Olympique de Marseille;31;175;77;3;4;4;78;0;0;0;0;87;78;59;84;84;48;72;80;57;12
+220814;Hernández;Lucas Hernández;83;29500000;58000;France;France;Atletico Madrid;23;183;76;1;3;3;84;0;1;0;0;78;53;82;80;65;83;79;51;86;10
+225850;Kimpembe;Presnel Kimpembe;83;30500000;82000;France;France;Paris Saint-Germain;23;188;80;2;3;3;84;0;0;0;0;62;31;79;79;58;77;84;39;88;9
+204970;Thauvin;Florian Thauvin;84;37000000;72000;France;France;Olympique de Marseille;26;152;70;2;3;4;78;0;0;0;0;83;81;75;83;85;76;66;82;56;9
+170890;Matuidi;Blaise Matuidi;85;26000000;145000;France;France;Juventus;31;155;75;3;2;2;85;0;0;1;0;75;64;68;83;78;84;76;70;86;14
+201535;Varane;Raphaël Varane;86;50000000;210000;France;France;Real Madrid;25;191;81;3;3;2;86;0;0;0;0;36;40;83;75;57;79;84;53;77;14
+167948;Lloris;Hugo Lloris;88;36000000;150000;France;France;Tottenham Hotspur;32;188;82;4;1;1;83;1;0;0;0;13;10;10;50;10;74;43;14;31;92
+215914;Kanté;N'Golo Kanté;89;63000000;225000;France;France;Chelsea;27;168;72;3;3;2;83;0;0;0;0;68;65;54;86;79;77;76;69;90;10
+167495;Neuer;Manuel Neuer;89;38000000;130000;Germany;Germany;FC Bayern Munchen;32;193;92;5;4;1;85;1;0;0;0;15;13;25;55;30;77;80;16;29;87
+192448;ter Stegen;Marc-André ter Stegen;89;58000000;240000;Germany;Germany;FC Barcelona;26;188;85;3;4;1;86;0;0;0;0;18;14;11;42;17;79;78;10;43;90
+212188;Werner;Timo Werner;84;40000000;77000;Germany;Germany;RB Leipzig;23;155;75;3;4;3;79;0;0;0;1;69;87;77;77;83;78;64;70;63;9
+212190;Süle;Niklas Süle;84;36500000;84000;Germany;Germany;FC Bayern Munchen;23;196;97;2;3;2;85;0;1;0;0;30;20;86;78;42;38;94;62;82;15
+206113;Gnabry;Serge Gnabry;83;34000000;85000;Germany;Germany;FC Bayern Munchen;23;175;75;2;4;4;85;0;0;0;1;74;81;46;79;87;64;68;81;63;7
+209658;Goretzka;Leon Goretzka;83;34000000;85000;Germany;Germany;FC Bayern Munchen;24;188;79;3;4;3;85;0;0;0;0;75;73;80;84;81;74;72;80;80;9
+213331;Tah;Jonathan Tah;82;25000000;61000;Germany;Germany;Bayer 04 Leverkusen;23;196;97;2;4;2;80;0;0;0;0;35;20;80;74;55;72;93;25;76;14
+207862;Ginter;Matthias Ginter;81;18500000;30000;Germany;Germany;Borussia Monchengladbach;25;188;83;2;3;2;79;0;0;0;0;68;55;85;77;62;65;82;46;69;10
+212194;Brandt;Julian Brandt;81;25000000;63000;Germany;Germany;Bayer 04 Leverkusen;22;185;84;2;4;4;80;0;0;0;0;77;77;42;81;87;63;69;78;42;9
+208334;Hector;Jonas Hector;79;10000000;26000;Germany;Germany;1. FC Koln;28;185;75;3;3;3;76;0;0;0;0;79;55;71;78;74;66;76;61;71;14
+192557;Plattenhardt;Marvin Plattenhardt;77;8500000;26000;Germany;Germany;Hertha BSC;27;155;76;2;2;3;77;0;0;0;0;87;43;60;78;75;72;73;55;64;16
+208333;Can;Emre Can;80;19500000;91000;Germany;Germany;Juventus;25;183;82;2;4;3;85;0;0;0;0;70;60;72;81;76;76;83;75;85;11
+205452;Rüdiger;Antonio Rüdiger;82;22500000;110000;Germany;Germany;Chelsea;26;191;85;2;3;2;83;0;0;0;0;68;32;80;75;60;73;82;44;88;8
+192563;Leno;Bernd Leno;83;22500000;105000;Germany;Germany;Arsenal;27;191;83;3;3;1;82;0;0;0;0;9;9;13;45;16;73;68;14;28;82
+202166;Draxler;Julian Draxler;83;32500000;91000;Germany;Germany;Paris Saint-Germain;25;188;77;3;5;4;84;0;0;0;0;83;78;65;84;88;75;66;82;48;8
+186942;Gündo?an;?lkay Gündo?an;84;32000000;175000;Germany;Germany;Manchester City;28;155;80;3;4;4;85;0;0;0;0;74;74;50;88;85;61;72;73;70;13
+183907;Boateng;Jérôme Boateng;85;30000000;115000;Germany;Germany;FC Bayern Munchen;30;193;90;4;4;2;85;0;0;0;0;69;34;85;75;64;74;91;58;81;5
+189596;Müller;Thomas Müller;86;45000000;135000;Germany;Germany;FC Bayern Munchen;29;185;75;4;4;3;85;0;0;0;0;79;87;82;83;75;81;68;80;57;14
+212622;Kimmich;Joshua Kimmich;86;45000000;100000;Germany;Germany;FC Bayern Munchen;24;175;70;3;4;3;85;0;0;0;0;91;66;74;87;80;79;64;69;79;15
+222492;Sané;Leroy Sané;86;61000000;195000;Germany;Germany;Manchester City;23;183;75;2;3;4;85;0;0;0;1;83;81;72;79;88;64;70;78;61;14
+178603;Hummels;Mats  Hummels;88;46000000;160000;Germany;Germany;FC Bayern Munchen;30;191;92;4;3;3;85;0;0;0;0;64;55;87;81;68;68;84;51;69;6
+188350;Reus;Marco Reus;88;58000000;130000;Germany;Germany;Borussia Dortmund;29;155;71;4;4;4;81;0;0;0;0;82;87;49;86;87;70;67;86;51;11
+182521;Kroos;Toni Kroos;90;76500000;355000;Germany;Germany;Real Madrid;29;183;76;4;5;3;86;0;0;0;0;88;76;58;92;81;30;73;89;60;10
+208260;Kourmpelis;Dimitrios Kourmpelis;74;6500000;1000;Greece;Greece;Panathinaikos FC;25;155;74;1;3;3;71;0;0;0;0;56;45;55;73;64;70;74;63;80;11
+236457;Giannoulis;Dimitris Giannoulis;69;1200000;1000;Greece;Greece;PAOK;23;152;71;1;2;3;75;0;0;0;0;67;42;60;60;65;61;56;38;66;12
+239841;Lampropoulos;Vasilios Lampropoulos;70;1400000;1000;Greece;Greece;AEK Athens;28;185;83;1;2;2;73;0;0;0;0;59;36;66;58;48;68;74;49;64;7
+223922;Bouchalakis;Andreas Bouchalakis;71;2800000;1000;Greece;Greece;Olympiacos CFP;25;188;84;1;4;3;75;0;0;0;0;65;58;63;75;66;65;73;76;66;15
+232223;Tsimikas;Konstantinos Tsimikas;71;2800000;1000;Greece;Greece;Olympiacos CFP;22;175;68;1;3;3;75;0;1;0;0;70;50;52;68;71;75;65;62;70;10
+226075;Bakakis;Michalis Bakakis;72;2900000;1000;Greece;Greece;AEK Athens;27;175;65;1;4;3;73;0;0;0;0;73;50;60;68;71;64;59;55;70;11
+209669;Siovas;Dimitrios Siovas;72;2400000;19000;Greece;Greece;CD Leganes;30;193;83;2;3;2;75;0;0;0;0;33;38;68;70;62;77;87;37;80;10
+210947;Karelis;Nikos Karelis;72;3700000;1000;Greece;Greece;PAOK;27;173;70;1;2;3;75;0;0;0;0;65;72;61;66;70;74;74;69;68;7
+239106;Koutris;Leonardo Koutris;72;3600000;1000;Greece;Greece;Olympiacos CFP;23;170;72;1;2;3;75;0;0;0;0;77;57;56;60;68;66;64;63;66;8
+181459;Torosidis;Vassilis Torosidis;73;1500000;1000;Greece;Greece;Olympiacos CFP;33;183;82;2;3;3;75;0;1;0;0;77;40;68;70;68;66;75;71;74;9
+227732;Donis;Anastasios Donis;73;6500000;21000;Greece;Greece;VfB Stuttgart;22;152;76;1;4;3;76;0;0;0;0;45;74;61;68;79;69;63;66;61;11
+208250;Bakasetas;Anastasios Bakasetas;73;5000000;1000;Greece;Greece;AEK Athens;25;155;78;1;4;3;73;0;0;0;0;70;70;68;76;68;68;73;78;61;14
+239272;Barkas;Vasilios Barkas;74;5000000;1000;Greece;Greece;AEK Athens;24;196;91;1;2;1;73;0;0;0;0;14;10;14;31;12;53;70;9;36;75
+168621;ca;José Carlos Gonçalves Rodrigues;75;6500000;21000;Greece;Greece;FC Kobenhavn;30;183;67;1;3;3;71;0;0;0;0;69;57;55;76;72;65;71;60;83;6
+208053;Pelkas;Dimitrios Pelkas;76;10000000;1000;Greece;Greece;PAOK;25;152;73;1;3;4;75;0;0;1;0;70;66;46;76;77;48;44;76;39;16
+240493;Paschalakis;Alexandros  Paschalakis;76;6000000;1000;Greece;Greece;PAOK;29;198;92;1;2;1;75;0;0;0;0;12;12;17;22;18;61;76;12;41;81
+208224;Mantalos;Petros Mantalos;76;9000000;1000;Greece;Greece;AEK Athens;27;175;73;1;4;3;73;0;0;1;0;73;66;51;78;79;60;55;72;63;12
+183483;Mitroglou;Konstantinos Mitroglou;77;8500000;47000;Greece;Greece;Galatasaray SK;30;188;86;3;3;3;76;0;0;0;1;60;78;79;66;69;76;86;70;75;16
+203980;Fortounis;Konstantinos Fortounis;78;12500000;1000;Greece;Greece;Olympiacos CFP;26;155;76;2;4;3;75;0;0;0;1;77;72;57;77;82;61;68;77;63;11
+172879;kratis;Sokratis Papastathopoulos;83;19000000;130000;Greece;Greece;Arsenal;30;185;85;3;2;2;82;0;0;0;0;47;44;85;60;58;86;86;48;88;5
+192774;Manolas;Kostas Manolas;85;36500000;96000;Greece;Greece;Roma;27;188;83;3;2;2;80;0;0;0;0;27;10;80;60;54;86;82;12;86;12
+185122;Gulácsi;Péter Gulácsi;82;18000000;53000;Hungary;Hungary;RB Leipzig;28;193;86;2;2;1;79;1;0;0;0;16;10;23;29;19;67;68;12;34;84
+184789;Szalai;Ádám Szalai;76;7500000;35000;Hungary;Hungary;TSG 1899 Hoffenheim;31;193;90;2;3;3;78;0;0;0;1;49;80;84;72;69;64;87;64;74;9
+201621;Baráth;Botond Baráth;67;750000;3000;Hungary;Hungary;Sporting Kansas City;26;188;75;1;3;2;71;0;0;0;0;68;38;68;62;48;68;77;48;75;9
+225666;Nagy;Dominik Nagy;68;1200000;4000;Hungary;Hungary;Legia Warszawa;23;175;69;1;3;3;70;0;0;0;0;64;58;42;65;67;49;51;59;49;9
+234171;Sallai;Roland Sallai;72;4600000;13000;Hungary;Hungary;SC Freiburg;21;183;77;1;3;3;74;0;0;0;1;68;70;49;71;76;63;58;63;59;9
+186648;Kádár;Tamás Kádár;75;6000000;1000;Hungary;Hungary;Dynamo Kyiv;28;188;79;1;2;2;75;0;0;0;0;71;34;73;70;58;71;79;28;73;10
+230936;Nagy;Ádám Nagy;76;9500000;24000;Hungary;Hungary;Bologna;23;152;74;1;5;3;75;0;0;1;0;72;48;54;80;80;54;54;58;65;14
+204638;Orban;Willi Orban;79;13000000;48000;Hungary;Hungary;RB Leipzig;26;185;83;2;3;2;79;0;0;0;0;38;38;83;66;53;90;85;29;79;6
+184484;Sigurðsson;Gylfi Þór Sigurðsson;82;22500000;125000;Iceland;Iceland;Everton;29;185;77;3;4;3;79;0;0;0;1;86;77;60;85;80;68;68;86;57;12
+191076;Guðmundsson;Johann  Berg Guðmunds­son;79;13000000;61000;Iceland;Iceland;Burnley;28;152;77;1;4;4;77;0;0;1;0;82;70;64;78;79;78;70;74;66;8
+195586;Finnbogason;Alfreð Finnbogason;79;12500000;35000;Iceland;Iceland;FC Augsburg;30;183;80;2;4;3;74;0;0;0;1;37;84;67;71;75;66;78;77;64;11
+212992;Böðvarsson;Jón Daði Böðvarsson;70;2200000;20000;Iceland;Iceland;Reading;26;191;85;1;4;3;70;0;0;0;0;59;68;68;63;67;66;80;63;54;14
+175789;Bjarnason;Birkir Bjarnason;69;975000;10000;Iceland;Iceland;Aston Villa;30;183;77;2;4;3;73;0;0;1;0;68;70;72;66;65;81;76;71;73;10
+211177;Traustason;Arnór Ingvi Traustason;68;1100000;3000;Iceland;Iceland;Malmo FF;25;155;77;1;3;3;70;0;0;0;0;67;64;43;65;69;52;63;71;71;8
+179899;Skúlason;Ari Freyr Skúlason;68;575000;6000;Iceland;Iceland;Sporting Lokeren;31;170;67;1;2;3;68;0;0;0;0;70;51;37;64;67;78;64;68;71;13
+238004;Guðmundsson;Albert Guðmundsson;69;1900000;6000;Iceland;Iceland;AZ Alkmaar;21;152;80;1;3;3;72;0;0;0;0;64;63;39;71;73;63;68;52;53;6
+173667;Gíslason;Rúrik Gíslason;69;1000000;4000;Iceland;Iceland;SV Sandhausen;31;183;78;1;3;2;69;0;0;0;0;66;68;59;67;69;75;76;71;75;6
+222562;Rúnarsson;Rúnar Alex Rúnarsson;70;2000000;5000;Iceland;Iceland;Dijon FCO;24;185;76;1;2;1;72;0;0;0;0;18;14;17;16;13;59;56;15;23;71
+189167;Gunnarsson;Aron Einar Gunnarsson;73;3100000;34000;Iceland;Iceland;Cardiff City;29;152;86;1;3;3;73;0;0;0;0;64;57;68;72;66;73;72;66;81;9
+221422;Ingason;Sverrir Ingi Ingason;73;4500000;1000;Iceland;Iceland;PAOK;25;188;83;1;3;2;75;0;0;0;0;45;43;66;56;47;80;77;60;73;9
+208522;Magnússon;Hörður Björgvin Magnússon;73;4500000;1000;Iceland;Iceland;PFC CSKA Moscow;26;191;81;1;2;2;73;0;1;0;0;54;45;76;75;50;70;76;51;70;10
+198219;Insigne;Lorenzo Insigne;88;62000000;165000;Italy;Italy;Napoli;27;163;59;3;4;4;82;0;0;0;1;86;77;56;85;90;53;44;84;34;10
+192387;Immobile;Ciro Immobile;87;52000000;115000;Italy;Italy;Lazio;29;185;85;3;4;3;80;0;0;0;1;55;90;81;74;83;77;76;80;77;6
+205498;rginho;Luiz Frello Filho Jorge;83;30000000;140000;Italy;Italy;Chelsea;27;155;67;2;3;3;83;0;0;1;0;75;57;56;89;82;58;66;62;79;8
+224933;Lasagna;Kevin Lasagna;77;11500000;29000;Italy;Italy;Udinese;26;185;80;2;3;3;75;0;0;0;0;60;78;72;66;76;76;69;66;40;15
+201389;Biraghi;Cristiano Biraghi;76;7500000;42000;Italy;Italy;Fiorentina;26;185;78;1;3;3;76;0;1;0;0;78;40;65;72;71;70;69;65;74;7
+212096;Grifo;Vincenzo Grifo;77;11000000;33000;Italy;Italy;SC Freiburg;25;155;76;1;2;4;74;0;0;0;0;82;72;47;73;83;52;62;76;52;14
+205659;Cragno;Alessio Cragno;78;10500000;21000;Italy;Italy;Cagliari;24;183;78;1;3;1;75;0;0;0;0;15;12;12;26;13;74;55;17;33;85
+206058;De Sciglio;Mattia De Sciglio;78;10000000;78000;Italy;Italy;Juventus;26;183;78;2;5;3;85;0;0;0;0;78;33;68;74;74;77;68;51;74;3
+210935;Berardi;Domenico Berardi;78;14000000;50000;Italy;Italy;Sassuolo;24;183;72;2;3;4;74;0;0;0;0;74;74;62;75;80;66;65;79;85;6
+212153;Gagliardini;Roberto Gagliardini;78;11500000;46000;Italy;Italy;Inter;24;191;77;2;2;3;82;0;0;0;0;64;54;73;78;75;64;71;73;74;9
+224232;Barella;Nicolò Barella;78;16500000;26000;Italy;Italy;Cagliari;22;173;68;2;3;3;75;0;0;0;0;72;63;40;81;80;59;61;65;82;11
+228251;Pellegrini;Lorenzo Pellegrini;79;18500000;57000;Italy;Italy;Roma;22;185;77;2;3;3;80;0;0;0;0;74;60;71;84;77;67;69;72;71;11
+235805;Chiesa;Federico Chiesa;79;18500000;51000;Italy;Italy;Fiorentina;21;175;70;2;4;4;76;0;0;0;1;72;70;50;76;84;55;64;78;62;7
+203551;Florenzi;Alessandro  Florenzi;82;20500000;73000;Italy;Italy;Roma;27;173;67;3;3;4;80;0;1;0;0;77;70;72;77;78;74;67;82;79;10
+211320;Rugani;Daniele Rugani;82;24500000;95000;Italy;Italy;Juventus;24;191;84;2;3;2;85;0;0;0;0;40;33;80;65;64;81;79;39;72;5
+212404;Bernardeschi;Federico Bernardeschi;82;28000000;110000;Italy;Italy;Juventus;25;185;77;2;3;5;85;0;0;0;0;82;70;50;82;86;49;63;82;52;12
+168435;Sirigu;Salvatore Sirigu;83;15500000;49000;Italy;Italy;Torino;32;193;80;3;2;1;77;0;0;0;0;13;10;11;23;15;68;66;14;34;82
+199845;Acerbi;Francesco Acerbi;83;19000000;64000;Italy;Italy;Lazio;31;193;88;2;3;3;80;0;0;0;0;25;37;80;73;65;68;83;60;73;11
+230621;Donnarumma;Gianluigi Donnarumma;83;33500000;26000;Italy;Italy;Milan;20;196;90;3;3;1;80;1;0;0;0;12;12;12;34;28;72;72;18;30;89
+184344;Bonucci;Leonardo Bonucci;86;30000000;160000;Italy;Italy;Juventus;31;191;85;3;3;2;85;0;0;0;0;44;48;86;77;69;85;83;65;82;4
+199556;Verratti;Marco Verratti;86;55000000;135000;Italy;Italy;Paris Saint-Germain;26;165;60;3;4;4;84;0;0;0;0;72;60;55;90;90;64;52;58;89;10
+138956;Chiellini;Giorgio Chiellini;90;31000000;225000;Italy;Italy;Juventus;34;188;85;4;3;2;85;0;0;0;0;58;33;83;59;58;89;89;49;92;3
+221992;Lozano;Hirving Rodrigo Lozano Bahena;82;29500000;24000;Mexico;Mexico;PSV;23;175;70;3;4;4;76;0;0;0;0;75;77;58;74;84;67;59;76;64;10
+192012;Reyes;Diego Antonio Reyes Rosales;76;8000000;48000;Mexico;Mexico;CD Leganes;26;188;74;3;3;2;75;0;0;0;0;49;45;78;77;67;70;69;47;64;8
+192041;Araújo;Néstor Alejandro Araújo Razo;75;7000000;20000;Mexico;Mexico;RC Celta;27;188;87;1;3;2;77;0;0;0;0;32;34;78;72;53;66;85;39;65;9
+186307;Fabián;Marco Jhonfai Fabián De La Mora;76;8000000;10000;Mexico;Mexico;Philadelphia Union;29;170;65;2;4;4;69;0;0;0;1;74;72;61;77;78;67;64;80;64;13
+140233;Ochoa;Francisco Guillermo Ochoa Magaña;77;5000000;13000;Mexico;Mexico;Standard de Liege;33;185;78;3;3;1;73;1;0;0;0;15;12;19;31;10;75;56;11;19;83
+220854;Gutiérrez;Erick Gutiérrez;77;13000000;15000;Mexico;Mexico;PSV;23;155;74;1;2;4;76;0;0;0;0;69;68;52;79;74;53;64;74;60;16
+170370;dos Santos;Jonathan dos Santos Ramírez;77;9000000;10000;Mexico;Mexico;LA Galaxy;28;173;73;1;4;3;71;0;0;0;0;76;61;55;81;78;66;65;73;72;12
+204838;Jiménez;Raúl Alonso Jiménez Rodríguez;78;12000000;15000;Mexico;Mexico;Wolverhampton Wanderers;27;191;81;3;4;3;76;0;0;0;0;69;76;81;71;75;68;75;68;80;10
+178224;Hernández;Javier Hernández Balcázar;79;12000000;90000;Mexico;Mexico;West Ham United;30;175;73;3;3;3;79;0;0;0;0;64;84;79;65;73;83;53;66;59;11
+171897;Guardado;José Andrés Guardado Hernández;82;19000000;35000;Mexico;Mexico;Real Betis;32;170;67;3;2;4;80;0;0;1;0;75;63;55;85;81;74;59;74;72;10
+203376;van Dijk;Virgil van Dijk;88;59500000;215000;Netherlands;Netherlands;Liverpool;27;193;92;3;3;2;83;0;0;0;0;53;52;83;79;70;88;92;64;82;11
+208808;Promes;Quincy Anton Promes;83;28000000;28000;Netherlands;Netherlands;Sevilla FC;27;175;72;2;4;5;80;0;0;1;0;79;86;60;78;84;82;61;83;60;13
+228702;de Jong;Frenkie de Jong;82;31000000;20000;Netherlands;Netherlands;Ajax;21;155;70;1;3;4;78;0;0;0;0;75;52;64;87;86;76;69;57;64;9
+225953;Bergwijn;Steven Bergwijn;80;20500000;18000;Netherlands;Netherlands;PSV;21;152;78;1;2;4;76;0;0;0;0;73;74;55;76;87;71;79;74;44;13
+157301;Babel;Ryan Guno Babel;79;11000000;70000;Netherlands;Netherlands;Fulham;32;185;85;3;3;4;76;0;0;1;0;72;77;71;71;82;82;78;82;58;15
+216266;Tete;Kenny Tete;77;10000000;44000;Netherlands;Netherlands;Olympique Lyonnais;23;155;71;2;3;2;79;0;1;0;0;72;42;74;73;65;77;76;41;80;10
+200110;Bizot;Marco Bizot;75;5500000;11000;Netherlands;Netherlands;AZ Alkmaar;27;193;85;1;2;1;72;0;0;0;0;20;15;16;28;12;67;64;14;39;76
+233096;Dumfries;Denzel Dumfries;76;8500000;13000;Netherlands;Netherlands;PSV;22;188;80;1;2;3;76;0;0;0;0;77;47;73;69;71;83;87;40;76;14
+186190;van Aanholt;Patrick  van Aanholt;76;6500000;44000;Netherlands;Netherlands;Crystal Palace;28;175;67;1;4;3;77;0;0;0;0;65;66;61;72;76;90;65;69;75;6
+208461;de Roon;Marten de Roon;76;8000000;26000;Netherlands;Netherlands;Atalanta;27;185;76;2;3;3;76;0;0;0;0;64;60;70;76;68;79;75;68;79;12
+221363;van de Beek;Donny van de Beek;77;12500000;14000;Netherlands;Netherlands;Ajax;21;183;74;2;4;3;78;0;0;0;0;67;75;59;78;74;70;75;80;68;14
+193158;Pröpper;Davy Pröpper;78;12000000;50000;Netherlands;Netherlands;Brighton & Hove Albion;27;185;79;2;3;4;76;0;0;0;0;58;62;68;78;74;68;69;78;76;6
+203535;Vilhena;Tonny Emilio Trindade de Vilhena;78;13000000;14000;Netherlands;Netherlands;Feyenoord;24;175;71;2;4;3;75;0;0;0;0;76;70;69;78;77;80;75;77;84;12
+189805;de Jong;Luuk de Jong;80;16000000;23000;Netherlands;Netherlands;PSV;28;188;86;2;3;2;76;0;0;0;0;66;79;93;76;66;81;84;69;52;11
+190778;Zoet;Jeroen Zoet;80;12500000;16000;Netherlands;Netherlands;PSV;28;188;88;2;4;1;76;0;0;0;0;17;12;19;37;15;57;66;17;18;83
+190815;Blind;Daley Blind;80;13500000;22000;Netherlands;Netherlands;Ajax;28;155;72;3;4;3;78;0;1;0;0;81;46;72;83;73;72;74;64;72;10
+208920;Aké;Nathan Aké;80;16500000;58000;Netherlands;Netherlands;Bournemouth;24;155;75;1;3;2;77;0;0;0;0;63;45;74;77;67;86;77;56;73;10
+189712;Strootman;Kevin Strootman;82;18000000;60000;Netherlands;Netherlands;Olympique de Marseille;29;185;80;3;3;3;78;0;0;0;0;74;68;68;86;75;53;81;70;86;7
+199987;Cillessen;Jasper Cillessen;82;18000000;135000;Netherlands;Netherlands;FC Barcelona;29;185;83;3;3;1;86;1;0;0;0;17;10;12;50;12;71;67;15;25;82
+181291;Wijnaldum;Georginio Wijnaldum;83;26500000;140000;Netherlands;Netherlands;Liverpool;28;175;69;3;3;4;83;0;0;0;1;67;70;72;85;84;80;74;71;69;6
+235243;de Ligt;Matthijs de Ligt;83;31500000;12000;Netherlands;Netherlands;Ajax;19;188;89;2;4;2;78;0;0;0;0;57;53;82;75;65;80;87;64;83;10
+198176;de Vrij;Stefan de Vrij;84;31500000;88000;Netherlands;Netherlands;Inter;27;188;78;3;4;2;82;0;0;0;0;49;25;80;71;63;76;80;60;78;13
+202556;Depay;Memphis Depay;84;41000000;93000;Netherlands;Netherlands;Olympique Lyonnais;25;175;78;3;3;5;79;0;0;0;1;82;78;65;80;84;74;80;81;75;10
+220763;Thomas;Ryan Thomas;75;9000000;13000;New Zealand;New Zealand;PSV;24;175;64;1;4;3;76;0;0;0;0;66;52;34;75;78;84;60;61;71;9
+235860;Woud;Michael Woud;58;230000;1000;New Zealand;New Zealand;Willem II;20;196;85;1;2;1;68;0;0;0;0;14;10;14;18;11;37;57;10;25;64
+231063;Lewis;Clayton Lewis;60;300000;1000;New Zealand;New Zealand;Scunthorpe United;22;173;72;1;3;2;66;0;0;0;0;52;53;35;60;61;55;43;58;52;13
+202170;Boxall;Michael Boxall;67;600000;3000;New Zealand;New Zealand;Minnesota United FC;30;188;91;1;2;2;71;0;0;0;0;58;35;65;63;56;77;86;33;69;8
+186352;Smith;Tommy Smith;69;950000;4000;New Zealand;New Zealand;Colorado Rapids;28;188;82;1;2;2;69;0;0;0;0;49;24;73;61;40;77;80;38;76;10
+193092;Rojas;Marco Rojas;69;1100000;8000;New Zealand;New Zealand;SonderjyskE;27;168;64;1;4;4;64;0;0;0;1;60;66;21;63;72;57;30;64;49;12
+192123;Wood;Chris Wood;77;10500000;56000;New Zealand;New Zealand;Burnley;27;188;92;1;3;2;77;0;0;0;1;46;78;83;65;66;76;84;71;74;16
+203362;Elyounoussi;Mohamed Elyounoussi;78;14000000;44000;Norway;Norway;Southampton;24;152;70;1;4;4;76;0;0;0;0;77;71;64;80;77;81;62;70;49;13
+198658;Midtsjø;Fredrik Midtsjø;74;7000000;12000;Norway;Norway;AZ Alkmaar;25;175;70;1;3;3;72;0;0;0;0;65;62;58;77;72;65;73;68;74;13
+198657;Svensson;Jonas Svensson;74;6000000;12000;Norway;Norway;AZ Alkmaar;26;170;70;1;3;3;72;0;1;0;0;74;55;59;73;73;73;77;58;81;16
+183475;Grytebust;Sten Michael Grytebust;74;4500000;10000;Norway;Norway;Odense Boldklub;29;185;82;1;2;1;67;0;0;0;0;11;12;13;26;14;59;58;12;35;79
+213777;Fossum;Iver Fossum;73;5500000;19000;Norway;Norway;Hannover 96;22;155;73;1;4;3;75;0;0;1;0;60;59;59;72;72;71;64;71;63;13
+198599;Linnes;Martin Linnes;73;3400000;37000;Norway;Norway;Galatasaray SK;27;152;72;1;3;3;76;0;0;0;0;68;57;55;68;72;66;60;59;62;16
+201877;Møller Dæhli;Mats  Møller Dæhli;72;4200000;12000;Norway;Norway;FC St. Pauli;24;152;71;1;3;3;70;0;0;0;0;66;53;20;70;80;57;46;52;26;9
+219466;Meling;Birger Solberg Meling;70;2000000;4000;Norway;Norway;Rosenborg BK;24;173;64;1;3;3;70;0;1;0;0;68;47;42;64;63;79;36;49;80;6
+190549;Henriksen;Markus Henriksen;71;2800000;17000;Norway;Norway;Hull City;26;188;80;1;2;3;70;0;0;0;0;67;69;70;69;67;76;74;72;69;14
+216549;Sørloth;Alexander Sørloth;72;4400000;33000;Norway;Norway;KAA Gent;23;193;90;1;4;3;72;0;0;0;0;69;73;72;67;70;65;83;65;67;8
+185427;Nyland;Ørjan  Håskjold Nyland;72;2500000;11000;Norway;Norway;Aston Villa;28;193;90;1;4;1;73;0;0;0;0;12;11;13;35;21;71;71;13;26;74
+235320;Johnsen;Björn Maars Johnsen;72;3700000;12000;Norway;Norway;AZ Alkmaar;27;196;81;1;2;2;72;0;0;0;0;44;73;78;59;67;77;78;73;68;14
+227362;Rosted;Sigurd Rosted;72;3500000;12000;Norway;Norway;KAA Gent;24;188;79;1;3;2;72;0;0;0;0;30;61;71;64;48;65;79;38;75;13
+210695;Aleesami;Haitam Aleesami;72;2600000;3000;Norway;Norway;Palermo;27;183;81;1;3;3;71;0;0;0;0;71;55;64;69;72;57;76;60;70;7
+169317;Elyounoussi;Tarik Elyounoussi;73;3900000;10000;Norway;Norway;AIK;31;173;66;1;4;4;68;0;0;1;0;68;70;62;68;76;77;64;69;56;7
+224258;Ajer;Kristoffer Vassbakk Ajer;73;5500000;26000;Norway;Norway;Celtic;20;196;94;1;3;3;74;0;0;0;0;55;48;73;66;69;52;88;53;75;10
+187043;Johansen;Stefan Marius Johansen;74;6000000;45000;Norway;Norway;West Bromwich Albion;28;183;78;1;3;3;74;0;0;0;0;70;69;53;73;71;65;68;74;83;14
+177280;Reginiussen;Tore Reginiussen;74;3200000;7000;Norway;Norway;Rosenborg BK;32;185;80;1;3;2;70;0;0;0;0;54;31;71;62;44;89;84;52;72;8
+222665;Ødegaard;Martin Ødegaard;75;10000000;59000;Norway;Norway;Vitesse;20;152;68;1;4;5;72;0;0;0;0;75;59;38;75;83;46;33;60;32;10
+182888;Nordtveit;Håvard Nordtveit;76;7000000;31000;Norway;Norway;Fulham;28;188;83;2;3;2;76;0;0;0;0;66;40;77;73;64;68;78;66;75;10
+228092;Berge;Sander Berge;77;12000000;12000;Norway;Norway;KRC Genk;21;196;94;1;3;3;74;0;0;0;0;61;34;73;82;78;71;88;55;67;10
+104389;Jarstein;Rune  Almenning Jarstein;83;13000000;33000;Norway;Norway;Hertha BSC;34;191;82;2;4;1;77;1;0;0;0;18;13;16;34;11;59;70;18;34;84
+225880;Moreira;Jorge Moreira;72;2500000;15000;Paraguay;Paraguay;Portland Timbers;29;175;77;1;3;3;70;0;1;0;0;76;26;65;73;67;66;55;59;65;6
+219932;Sanabria;Antonio Sanabria;78;15000000;25000;Paraguay;Paraguay;Genoa;23;155;74;1;4;4;74;0;0;0;1;67;78;78;75;78;76;77;65;32;13
+158133;Farfán;Jefferson Agustín Farfán Guadalupe;78;6500000;1000;Peru;Peru;Lokomotiv Moscow;34;152;84;2;3;4;77;0;0;0;1;78;73;72;73;74;76;78;72;73;15
+220673;Tapia;Renato Tapia;74;6500000;10000;Peru;Peru;Willem II;23;183;78;1;4;3;68;0;0;0;0;60;44;66;71;74;82;77;62;82;8
+223637;Polo;Andy Polo;69;1400000;4000;Peru;Peru;Portland Timbers;24;175;71;1;3;3;70;0;0;0;0;63;62;57;63;66;44;47;58;41;14
+214000;Reyna;José Yordy Reyna Serna;70;2400000;5000;Peru;Peru;Vancouver Whitecaps FC;25;170;68;1;4;3;67;0;0;0;0;52;67;64;69;74;68;59;63;60;11
+204539;Advíncula;Luis Jan Piers Advíncula Castrillón;74;4400000;41000;Peru;Peru;Rayo Vallecano;29;152;80;1;4;3;74;0;1;0;0;75;58;62;73;76;72;74;68;70;11
+211124;Hurtado;Christopher Paolo César Hurtado Huertas;75;7000000;18000;Peru;Peru;Atiker Konyaspor;28;175;72;1;4;4;71;0;0;0;0;70;72;72;74;75;80;59;71;42;9
+204538;Ruidíaz;Raúl Mario Ruidíaz Misitich;76;8000000;10000;Peru;Peru;Seattle Sounders FC;28;170;66;1;4;4;70;0;0;0;1;67;80;74;66;76;74;49;73;62;12
+189908;Skorupski;?ukasz Skorupski;76;6500000;23000;Poland;Poland;Bologna;27;188;84;2;2;1;75;0;0;0;0;19;11;10;29;18;58;58;15;33;81
+164994;B?aszczykowski;Jakub B?aszczykowski;74;4400000;8000;Poland;Poland;WisWieczysta Krakow;33;175;67;2;4;3;65;0;0;0;0;75;67;48;76;74;63;70;68;62;15
+211626;K?dzior;Damian K?dzior;72;3700000;1000;Poland;Poland;Dinamo Zagreb;26;175;74;1;2;3;72;0;0;0;0;81;65;51;68;72;79;57;62;52;9
+177790;J?drzejczyk;Artur J?drzejczyk;70;1300000;6000;Poland;Poland;Legia Warszawa;31;188;78;1;3;3;70;0;0;0;0;70;48;73;69;63;75;76;39;77;11
+224300;Matynia;Hubert Matynia;65;650000;2000;Poland;Poland;Pogon Szczecin;23;155;70;1;4;2;67;0;0;0;0;60;45;55;58;53;82;44;40;59;8
+203558;Pietrzak;Rafa? Pietrzak;64;425000;2000;Poland;Poland;WisWieczysta Krakow;27;175;69;1;2;2;65;0;0;0;0;62;40;51;57;60;62;65;55;55;11
+224438;Buksa;Adam Buksa;66;900000;2000;Poland;Poland;Pogon Szczecin;22;191;79;1;4;3;67;0;0;0;0;47;67;69;59;64;75;72;60;51;14
+212138;Frankowski;Przemys?aw Frankowski;71;3200000;5000;Poland;Poland;Chicago Fire;23;173;70;1;3;3;69;0;0;0;0;66;69;57;68;64;72;68;56;53;11
+220570;Bednarek;Jan Bednarek;72;4200000;25000;Poland;Poland;Southampton;22;188;77;1;3;2;76;0;0;0;0;44;19;73;67;50;72;77;23;67;9
+192955;Klich;Mateusz Klich;73;4000000;35000;Poland;Poland;Leeds United;28;183;82;1;3;3;72;0;0;1;0;67;69;48;75;70;64;69;72;60;14
+199761;Kami?ski;Marcin Kami?ski;73;4000000;24000;Poland;Poland;Fortuna Dusseldorf;27;193;82;1;2;2;73;0;0;0;0;55;53;70;72;59;78;76;60;65;10
+177922;Grosicki;Kamil Grosicki;73;3800000;23000;Poland;Poland;Hull City;30;155;78;2;3;3;70;0;0;1;0;70;68;69;68;70;52;66;75;43;11
+210136;K?dziora;Tomasz K?dziora;74;6500000;1000;Poland;Poland;Dynamo Kyiv;24;183;73;1;3;2;75;0;1;0;0;78;37;71;68;62;73;71;51;72;9
+199763;Bereszy?ski;Bartosz Bereszy?ski;74;6000000;25000;Poland;Poland;Sampdoria;26;183;77;1;3;3;76;0;1;0;0;70;50;60;68;68;70;69;60;74;15
+223113;Pi?tek;Krzysztof Pi?tek;76;10500000;67000;Poland;Poland;Milan;23;183;77;1;3;3;80;0;0;0;0;51;82;75;64;70;81;76;67;33;13
+164835;Fabia?ski;?ukasz Fabia?ski;81;9000000;70000;Poland;Poland;West Ham United;33;191;83;2;2;1;79;0;0;0;0;14;13;11;20;14;68;65;20;43;84
+190547;Glik;Kamil Glik;82;16500000;79000;Poland;Poland;AS Monaco;31;191;80;3;2;2;79;0;0;0;0;29;27;85;63;51;81;90;20;86;10
+205175;Milik;Arkadiusz Milik;82;29500000;77000;Poland;Poland;Napoli;25;185;78;3;3;4;82;0;0;0;1;58;88;78;63;76;65;80;82;67;6
+210406;Zieli?ski;Piotr Zieli?ski;82;30000000;70000;Poland;Poland;Napoli;24;155;75;3;5;4;82;0;0;0;0;77;68;52;84;85;54;60;82;56;6
+186153;Szcz?sny;Wojciech  Szcz?sny;86;37000000;135000;Poland;Poland;Juventus;28;196;90;3;3;1;85;1;0;0;0;12;12;16;32;11;71;65;14;40;88
+188545;Lewandowski;Robert Lewandowski;90;77000000;205000;Poland;Poland;FC Bayern Munchen;30;183;80;4;4;4;85;0;0;0;1;62;91;85;83;85;84;84;84;80;10
+207566;lliam Carvalho;William Silva de Carvalho;83;27000000;35000;Portugal;Portugal;Real Betis;26;188;83;3;4;3;80;0;0;1;0;68;52;73;81;78;69;92;59;78;14
+210514;ão Cancelo;João Pedro Cavaco Cancelo;83;29500000;105000;Portugal;Portugal;Juventus;24;183;74;2;3;4;85;0;1;0;0;86;58;64;79;85;73;66;66;73;14
+224411;nçalo Guedes;Gonçalo Manuel Ganchinho Guedes;82;29000000;36000;Portugal;Portugal;Valencia CF;22;152;68;1;4;4;80;0;0;0;0;78;75;60;77;86;65;62;77;67;9
+228941;dré Silva;André Miguel Valente da Silva;80;21000000;89000;Portugal;Portugal;Sevilla FC;23;185;79;2;3;4;80;0;0;0;0;59;83;77;69;77;84;74;60;76;8
+201118;dric;Cédric Ricardo Alves Soares;77;8500000;43000;Portugal;Portugal;Inter;27;173;67;2;4;3;82;0;0;0;0;70;57;65;75;75;72;62;74;75;11
+230767;nato Sanches;Renato Júnior Luz Sanches;75;10000000;41000;Portugal;Portugal;FC Bayern Munchen;21;175;70;3;4;3;85;0;0;0;0;60;65;64;76;77;79;76;77;90;14
+189795;er;Éderzito António Macedo Lopes;75;6500000;1000;Portugal;Portugal;Lokomotiv Moscow;31;191;81;2;4;3;77;0;0;0;0;35;74;74;64;67;64;83;61;83;12
+182629;to;António Alberto Bastos Pimparel;76;1000000;12000;Portugal;Portugal;Goztepe SK;36;183;81;2;3;1;72;0;0;0;0;17;12;22;36;14;67;52;12;29;75
+211368;uma;Armindo Tué Na Bangna;78;13500000;43000;Portugal;Portugal;RB Leipzig;24;173;70;2;4;4;79;0;0;0;1;72;71;53;75;87;73;54;73;64;8
+204614;rio Rui;Mário Rui Silva Duarte;79;11500000;60000;Portugal;Portugal;Napoli;27;170;67;2;3;3;82;0;1;0;0;79;27;60;76;79;92;54;73;73;14
+212814;ão Mário;João Mário Naval Costa Eduardo;81;22500000;71000;Portugal;Portugal;Inter;26;152;73;3;4;4;82;0;0;0;0;77;64;55;83;83;64;68;72;60;8
+224293;ben Neves;Rúben Diogo da Silva Neves;81;24000000;63000;Portugal;Portugal;Wolverhampton Wanderers;21;155;80;2;3;4;76;0;0;0;0;77;64;51;84;74;68;70;83;82;10
+178005;i Patrício;Rui Pedro dos Santos Patrício;83;16500000;74000;Portugal;Portugal;Wolverhampton Wanderers;31;191;84;3;2;1;76;1;0;0;0;12;12;11;31;20;79;77;11;39;82
+218667;rnardo Silva;Bernardo Mota Veiga de Carvalho e Silva;86;59500000;180000;Portugal;Portugal;Manchester City;24;173;64;2;3;4;85;0;0;0;1;85;75;51;85;92;50;50;72;62;9
+20801;stiano Ronaldo;Cristiano Ronaldo dos Santos Aveiro;94;77000000;405000;Portugal;Portugal;Juventus;34;188;83;5;4;5;85;0;0;0;1;84;94;89;81;88;95;79;93;63;11
+184469;Arter;Harry Arter;75;6500000;55000;Republic of Ireland;Republic of Ireland;Cardiff City;29;175;70;1;5;3;73;0;0;0;0;62;66;53;80;69;68;69;73;86;8
+169697;Randolph;Darren Randolph;73;2400000;31000;Republic of Ireland;Republic of Ireland;Middlesbrough;31;188;78;1;3;1;72;1;0;0;0;11;14;16;33;14;61;57;14;29;75
+211009;Lenihan;Darragh Lenihan;71;2600000;21000;Republic of Ireland;Republic of Ireland;Blackburn Rovers;24;188;76;1;3;2;69;0;0;0;0;50;40;62;62;54;73;73;53;79;15
+163156;Keogh;Richard Keogh;71;1600000;24000;Republic of Ireland;Republic of Ireland;Derby County;32;188;87;1;3;2;71;0;0;0;0;52;28;73;70;67;72;76;12;68;11
+212223;Maguire;Sean Maguire;71;3400000;10000;Republic of Ireland;Republic of Ireland;Preston North End;24;175;68;1;3;3;70;0;0;0;0;48;72;67;58;73;70;65;53;52;12
+203491;O'Brien;Aiden O'Brien;69;1300000;6000;Republic of Ireland;Republic of Ireland;Millwall;25;183;72;1;3;3;69;0;0;0;0;65;65;60;67;69;69;69;63;66;14
+162901;Doyle;Colin Doyle;66;325000;2000;Republic of Ireland;Republic of Ireland;Heart of Midlothian;33;196;92;1;3;1;67;0;0;0;0;15;14;11;32;15;50;59;12;23;64
+212454;O'Dowda;Callum O'Dowda;71;3300000;23000;Republic of Ireland;Republic of Ireland;Bristol City;23;155;75;1;2;3;70;0;0;0;0;69;62;59;67;73;67;65;58;48;10
+198489;McClean;James McClean;71;2300000;30000;Republic of Ireland;Republic of Ireland;Stoke City;29;155;70;2;2;3;73;0;0;0;0;74;66;67;68;74;68;69;62;88;15
+200778;Christie;Cyrus Christie;71;2400000;28000;Republic of Ireland;Republic of Ireland;Fulham;26;188;78;1;2;3;76;0;0;0;0;71;49;63;67;73;70;74;47;69;10
+206518;Robinson;Callum Robinson;72;4300000;10000;Republic of Ireland;Republic of Ireland;Preston North End;24;152;75;1;3;3;70;0;0;0;0;68;73;63;63;74;47;65;61;46;15
+181681;Williams;Shaun Williams;73;2700000;12000;Republic of Ireland;Republic of Ireland;Millwall;32;185;80;1;3;3;69;0;0;0;0;78;58;64;71;65;74;78;64;74;8
+204936;Egan;John Egan;73;4300000;11000;Republic of Ireland;Republic of Ireland;Sheffield United;26;188;75;1;3;2;71;0;0;0;0;32;43;72;64;55;77;81;52;71;6
+194146;Long;Kevin Long;73;3800000;36000;Republic of Ireland;Republic of Ireland;Burnley;28;191;82;1;2;2;77;0;0;0;0;38;29;76;60;53;79;77;27;75;7
+192546;Stevens;Enda Stevens;73;3300000;11000;Republic of Ireland;Republic of Ireland;Sheffield United;28;183;78;1;2;3;71;0;0;0;0;73;36;54;67;66;64;66;34;64;15
+169216;Long;Shane  Long;73;3600000;39000;Republic of Ireland;Republic of Ireland;Southampton;32;152;70;2;2;3;76;0;0;0;0;70;70;74;62;70;94;68;65;80;10
+193849;Hourihane;Conor Hourihane;74;6000000;18000;Republic of Ireland;Republic of Ireland;Aston Villa;28;155;62;1;4;3;73;0;0;0;0;74;66;57;77;65;76;69;77;75;9
+200478;Hendrick;Jeff Hendrick;75;8000000;46000;Republic of Ireland;Republic of Ireland;Burnley;27;183;84;1;3;3;77;0;0;1;0;70;67;69;77;76;74;71;69;75;14
+201884;Brady;Robbie Brady;76;8500000;48000;Republic of Ireland;Republic of Ireland;Burnley;27;152;77;1;3;4;77;0;0;0;0;80;69;59;71;76;73;64;75;58;7
+201417;Doherty;Matt Doherty;77;8500000;58000;Republic of Ireland;Republic of Ireland;Wolverhampton Wanderers;27;183;89;1;4;3;76;0;0;0;0;75;57;62;74;74;82;73;62;75;9
+180216;Coleman;Séamus Coleman;79;9500000;92000;Republic of Ireland;Republic of Ireland;Everton;30;152;77;2;3;3;79;0;0;0;0;82;61;69;78;79;71;69;66;78;7
+201325;T?t?ru?anu;Anton Ciprian T?t?ru?anu;80;8500000;25000;Romania;Romania;FC Nantes;33;196;86;2;3;1;75;1;0;0;0;13;15;15;37;16;66;73;12;33;83
+211061;Maxim;Alexandru Iulian Maxim;73;4200000;22000;Romania;Romania;1. FSV Mainz 05;28;152;73;2;4;5;75;0;0;1;0;70;63;40;70;80;52;49;70;48;10
+237630;Pa?canu;Alexandru Stefan Pascanu;61;500000;4000;Romania;Romania;Leicester City;20;185;73;1;4;2;78;0;0;0;0;59;30;51;43;58;63;67;35;70;15
+233512;To?ca;Alin To?ca;68;875000;1000;Romania;Romania;PAOK;26;155;78;1;3;2;75;0;0;0;0;61;46;66;69;55;57;70;42;62;12
+225652;Pu?ca?;George Pu?ca?;69;1600000;2000;Romania;Romania;Palermo;22;188;78;1;3;3;71;0;0;0;1;40;70;67;53;70;66;69;55;56;10
+156221;S?punaru;Ionu? Cristian S?punaru;71;725000;9000;Romania;Romania;Kayserispor;34;188;81;2;3;2;71;0;0;0;0;62;60;69;62;66;67;80;72;84;8
+238033;Nita;Florin Constantin Ni??;72;2000000;1000;Romania;Romania;Sparta Praha;31;183;73;1;2;1;71;0;0;0;0;14;8;13;23;18;61;79;5;20;73
+192613;Pantilimon;Costel Pantilimon;72;1900000;25000;Romania;Romania;Nottingham Forest;32;203;96;1;2;1;72;0;0;0;0;19;11;16;38;15;34;78;15;40;74
+212048;Chipciu;Alexandru Mih?i?? Chipciu;72;3000000;1000;Romania;Romania;Sparta Praha;29;152;73;1;4;3;71;0;0;1;0;73;68;58;68;72;73;66;72;68;11
+229804;Mitri??;Alexandru Ionu? Mitri??;74;7500000;8000;Romania;Romania;New York City FC;24;170;65;1;5;3;69;0;0;0;0;63;69;31;70;76;34;50;64;49;11
+235813;Marin;R?zvan Marin;76;10500000;15000;Romania;Romania;Standard de Liege;22;175;70;1;4;4;73;0;0;0;0;76;68;55;77;76;65;65;78;66;8
+148119;Akinfeev;Igor Akinfeev;80;8500000;1000;Russia;Russia;PFC CSKA Moscow;32;185;78;3;3;1;73;1;0;0;0;19;13;18;23;15;62;72;13;24;84
+213160;Zobnin;Roman Zobnin;79;15000000;1000;Russia;Russia;Spartak Moscow;25;183;75;1;3;4;75;0;0;0;0;69;65;70;81;82;63;63;67;70;9
+187492;Kombarov;Dmitriy Kombarov;72;2000000;1000;Russia;Russia;Spartak Moscow;32;183;72;2;2;4;75;0;0;0;0;68;68;68;71;74;73;59;76;77;13
+186296;Neustädter;Roman Neustädter;73;3000000;41000;Russia;Russia;Fenerbahce SK;31;188;81;2;4;2;76;0;0;0;0;50;39;73;73;62;65;74;63;66;14
+222368;Miranchuk;Anton Miranchuk;73;6000000;1000;Russia;Russia;Lokomotiv Moscow;23;183;72;1;4;3;77;0;0;0;0;66;73;44;74;71;49;68;68;39;16
+181795;Kudryashov;Fedor Kudryashov;73;2700000;18000;Russia;Russia;Medipol Basaksehir FK;31;155;81;1;2;2;76;0;0;0;0;71;41;63;68;61;70;73;56;71;8
+210468;Kutepov;Ilya Kutepov;74;6500000;1000;Russia;Russia;Spartak Moscow;25;193;84;1;5;2;75;0;0;0;0;34;35;80;74;38;34;82;55;70;11
+214092;Miranchuk;Aleksey Miranchuk;77;12000000;1000;Russia;Russia;Lokomotiv Moscow;23;183;74;1;2;3;77;0;0;0;0;65;64;53;79;78;58;64;65;43;15
+180714;ilherme;Guilherme Alvim Marinato;78;6000000;1000;Russia;Russia;Lokomotiv Moscow;33;196;95;2;2;1;77;0;0;0;0;13;11;13;39;16;62;71;16;35;80
+206225;Cheryshev;Denis Cheryshev;78;11000000;33000;Russia;Russia;Valencia CF;28;152;74;2;4;3;80;0;0;1;0;82;78;54;72;80;75;67;84;62;8
+225663;Golovin;Alexandr Golovin;78;14000000;55000;Russia;Russia;AS Monaco;22;155;69;1;4;4;79;0;0;0;1;69;70;38;80;84;63;54;75;78;16
+187491;Smolov;Fyodor Smolov;81;18500000;1000;Russia;Russia;Lokomotiv Moscow;29;188;80;1;4;4;77;0;0;0;0;56;84;70;77;77;67;75;81;67;10
+193525;rio Fernandes;Mário Figueira Fernandes;82;18500000;1000;Russia;Russia;PFC CSKA Moscow;28;188;80;2;3;3;73;0;1;0;0;74;56;72;82;80;84;75;58;77;12
+188166;Phillips;Matt Phillips;76;8000000;34000;Scotland;Scotland;West Bromwich Albion;27;183;75;1;4;4;74;0;0;0;0;80;69;54;68;79;54;78;72;54;10
+200302;Shinnie;Graeme Shinnie;74;5500000;8000;Scotland;Scotland;Aberdeen;27;175;72;1;4;3;68;0;0;0;0;66;24;54;74;66;79;68;50;87;12
+220031;McBurnie;Oliver McBurnie;72;4600000;20000;Scotland;Scotland;Swansea City;22;191;77;1;2;3;71;0;0;0;0;40;73;73;65;70;69;80;57;60;13
+225974;McKenna;Scott McKenna;70;3100000;4000;Scotland;Scotland;Aberdeen;22;188;80;1;3;2;68;0;0;0;0;41;22;67;53;40;76;89;32;85;9
+235729;Bates;David Bates;67;1100000;3000;Scotland;Scotland;Hamburger SV;22;191;83;1;2;2;73;0;0;0;0;21;18;73;56;27;77;76;16;66;15
+225316;Hendry;Jack Hendry;67;925000;13000;Scotland;Scotland;Celtic;23;193;81;1;2;2;74;0;0;0;0;44;26;65;64;61;75;77;35;72;13
+198625;Bain;Scott Bain;70;1600000;20000;Scotland;Scotland;Celtic;27;155;84;1;3;1;74;0;0;0;0;16;12;16;27;13;72;66;14;35;74
+164769;Fletcher;Steven Fletcher;70;1600000;17000;Scotland;Scotland;Sheffield Wednesday;31;185;76;2;2;3;71;0;0;0;1;55;71;77;62;64;81;77;63;56;9
+237238;McTominay;Scott McTominay;71;3800000;43000;Scotland;Scotland;Manchester United;22;193;88;1;3;3;82;0;0;0;0;66;58;72;74;65;66;78;61;72;11
+178417;Mulgrew;Charlie Mulgrew;72;1800000;27000;Scotland;Scotland;Blackburn Rovers;33;191;83;1;3;2;69;0;0;0;0;70;50;73;69;65;58;81;72;68;7
+185068;Russell;Johnny Russell;72;3100000;7000;Scotland;Scotland;Sporting Kansas City;28;152;76;1;3;3;71;0;0;0;0;69;67;67;69;75;82;72;64;78;7
+163209;Naismith;Steven Naismith;73;3500000;23000;Scotland;Scotland;Heart of Midlothian;32;152;72;2;3;3;67;0;0;0;0;63;73;75;70;68;86;78;68;86;16
+213884;Christie;Ryan Christie;74;7500000;37000;Scotland;Scotland;Celtic;24;152;71;1;4;3;74;0;0;0;0;65;68;54;75;74;69;72;73;76;8
+53110;Gordon;Craig  Gordon;74;1300000;20000;Scotland;Scotland;Celtic;36;193;83;2;3;1;74;0;0;0;0;13;14;15;34;11;68;68;14;33;77
+202539;Griffiths;Leigh Griffiths;74;6000000;46000;Scotland;Scotland;Celtic;28;175;77;1;3;3;74;0;0;0;0;67;74;68;66;71;86;67;71;66;10
+210724;Paterson;Callum Paterson;74;7500000;37000;Scotland;Scotland;Cardiff City;24;188;76;1;3;3;73;0;1;0;0;70;70;79;67;66;93;84;63;85;11
+211093;McGregor;Callum McGregor;75;7000000;40000;Scotland;Scotland;Celtic;25;175;74;1;4;4;74;0;0;1;0;66;70;44;79;75;53;68;72;77;13
+49000;McGregor;Allan McGregor;75;900000;22000;Scotland;Scotland;Rangers FC;37;183;74;2;3;1;73;1;0;0;0;11;20;13;36;20;73;71;14;45;79
+202282;Armstrong;Stuart Armstrong;75;8000000;42000;Scotland;Scotland;Southampton;26;183;75;1;4;3;76;0;0;0;0;64;70;66;75;75;69;68;77;67;13
+226491;Tierney;Kieran Tierney;76;11000000;32000;Scotland;Scotland;Celtic;21;152;78;1;3;3;74;0;0;0;0;74;52;59;72;75;69;76;66;82;13
+200630;Forrest;James Forrest;76;8500000;48000;Scotland;Scotland;Celtic;27;175;77;1;3;4;74;0;0;1;0;74;74;47;72;77;74;64;67;44;9
+207807;Fraser;Ryan Fraser;78;13000000;55000;Scotland;Scotland;Bournemouth;25;163;70;1;4;4;77;0;0;1;0;77;70;30;76;81;60;50;69;65;10
+216267;Robertson;Andrew Robertson;83;29000000;110000;Scotland;Scotland;Liverpool;24;152;64;1;2;3;83;0;1;0;0;87;57;63;76;76;62;66;60;80;14
+212023;Beri?;Robert Beri?;74;6500000;29000;Slovenia;Slovenia;AS Saint-Etienne;27;188;83;2;3;3;76;0;0;0;1;52;80;73;72;67;71;77;67;65;16
+238941;Balkovec;Jure Balkovec;66;750000;1000;Slovenia;Slovenia;Hellas Verona;24;185;74;1;3;2;71;0;0;0;0;72;37;51;62;58;58;70;58;66;11
+205556;Krajnc;Luka Krajnc;71;2400000;9000;Slovenia;Slovenia;Frosinone;24;188;86;1;2;2;72;0;0;0;0;58;25;65;64;56;77;84;30;69;10
+240095;Stulac;Leo Štulac;71;3000000;19000;Slovenia;Slovenia;Parma;24;175;70;1;3;2;73;0;0;0;0;60;52;55;77;60;64;69;78;70;15
+210879;Struna;Aljaž Struna;72;2900000;6000;Slovenia;Slovenia;Houston Dynamo;28;191;86;1;3;2;69;0;0;0;0;59;24;72;60;61;77;93;53;69;6
+193336;Belec;Vid Belec;72;2600000;18000;Slovenia;Slovenia;Sampdoria;28;193;93;1;3;1;76;1;0;0;0;11;10;13;24;13;75;59;16;25;74
+192205;Krhin;Rene Krhin;73;3200000;19000;Slovenia;Slovenia;FC Nantes;28;188;81;1;3;2;75;0;0;0;0;59;49;60;74;59;52;75;55;72;5
+231095;Skubic;Nejc Skubic;73;3000000;14000;Slovenia;Slovenia;Atiker Konyaspor;29;152;75;1;3;3;71;0;1;0;0;75;44;64;69;72;71;70;46;74;10
+202061;Kurti?;Jasmin Kurti?;75;6500000;15000;Slovenia;Slovenia;SPAL;30;185;88;2;3;3;74;0;0;0;0;67;60;71;77;71;67;84;76;77;6
+233478;Zajc;Miha Zajc;75;9500000;46000;Slovenia;Slovenia;Fenerbahce SK;24;152;76;1;3;4;76;0;0;0;1;69;69;60;76;74;65;55;70;52;5
+225997;Verbi?;Benjamin Verbi?;79;16000000;1000;Slovenia;Slovenia;Dynamo Kyiv;25;152;70;1;3;4;75;0;0;1;0;70;74;65;75;81;72;72;71;74;12
+176104;Birsa;Valter Birsa;80;13000000;41000;Slovenia;Slovenia;Cagliari;32;183;81;2;4;4;75;0;0;0;0;78;62;60;82;84;68;77;83;55;3
+200647;Ili?i?;Josip Ili?i?;81;17000000;41000;Slovenia;Slovenia;Atalanta;31;191;79;3;3;4;76;0;0;1;0;78;78;58;82;83;33;74;87;58;6
+200389;Oblak;Jan Oblak;90;68000000;94000;Slovenia;Slovenia;Atletico Madrid;26;188;87;3;3;1;84;0;0;0;0;13;11;15;29;12;76;78;12;34;89
+213725;Phiri;Lebogang Phiri;72;4200000;14000;South Africa;South Africa;En Avant de Guingamp;24;173;63;1;3;3;73;0;0;0;0;64;53;64;75;72;70;69;59;68;13
+225145;Mphahlele;Ramahlwe Mphahlele;71;1900000;1000;South Africa;South Africa;Kaizer Chiefs;29;185;80;1;3;3;69;0;1;0;0;68;24;63;64;64;63;71;49;39;13
+239431;Maela;Innocent Maela;65;550000;1000;South Africa;South Africa;Orlando Pirates;26;170;68;1;3;3;68;0;0;0;0;66;31;59;31;66;65;45;41;51;15
+229128;Lorch;Thembinkosi Lorch;67;950000;1000;South Africa;South Africa;Orlando Pirates;25;170;66;1;4;3;68;0;0;0;0;74;69;49;69;64;69;49;50;58;9
+199169;Mokotjo;Kamohelo Mokotjo;69;1200000;19000;South Africa;South Africa;Brentford;27;175;72;1;3;3;70;0;0;0;0;52;46;42;77;63;74;66;52;62;11
+237631;Mothiba;Lebo Mothiba;74;9000000;16000;South Africa;South Africa;RC Strasbourg Alsace;23;183;76;1;3;3;74;0;0;0;1;54;78;70;68;70;67;74;66;55;10
+189511;rgio Busquets;Sergio Busquets i Burgos;89;51500000;315000;Spain;Spain;FC Barcelona;30;188;76;4;3;3;86;0;0;1;0;62;67;68;89;80;66;77;54;85;13
+189332;rdi Alba;Jordi Alba Ramos;87;38000000;250000;Spain;Spain;FC Barcelona;29;170;68;3;3;3;86;0;1;0;0;87;73;70;84;80;81;61;66;77;13
+189509;iago;Thiago Alcântara do Nascimento;87;51500000;140000;Spain;Spain;FC Bayern Munchen;27;175;70;3;3;5;85;0;0;0;0;72;69;54;90;90;75;59;79;56;13
+197781;co;Francisco Román Alarcón Suárez;87;62500000;260000;Spain;Spain;Real Madrid;26;175;79;3;3;4;86;0;0;0;1;75;79;55;86;94;64;59;85;58;6
+206585;pa;Kepa Arrizabalaga;84;31000000;92000;Spain;Spain;Chelsea;24;185;85;1;4;1;83;0;0;0;0;25;11;17;32;10;71;51;14;18;85
+220834;rco Asensio;Marco Asensio Willemsen;84;41500000;195000;Spain;Spain;Real Madrid;23;183;76;3;3;4;86;0;0;0;1;82;80;57;83;85;58;61;88;45;10
+221087;u López;Pau López Sabata;82;21500000;21000;Spain;Spain;Real Betis;24;188;77;1;3;1;80;0;0;0;0;24;19;15;38;18;71;52;18;39;83
+231866;dri;Rodrigo Hernández Cascante;82;29000000;59000;Spain;Spain;Atletico Madrid;22;191;82;1;3;4;84;0;0;0;0;63;64;75;84;77;69;75;76;63;8
+204525;igo Martínez;Íñigo Martínez Berridi;80;14000000;27000;Spain;Spain;Athletic Club de Bilbao;27;183;77;2;2;2;79;0;0;0;0;51;42;73;71;53;90;80;74;84;11
+211688;yà;José Luís Gayà Peña;80;16500000;33000;Spain;Spain;Valencia CF;23;173;66;2;3;4;80;0;0;0;0;82;61;52;81;77;54;61;59;73;9
+222509;ni Ceballos;Daniel Ceballos Fernández;81;25000000;120000;Spain;Spain;Real Madrid;22;152;70;1;3;4;86;0;0;0;0;74;68;41;83;85;52;62;71;76;13
+201153;rata;Álvaro Borja Morata Martín;82;27500000;135000;Spain;Spain;Atletico Madrid;26;188;85;3;4;3;84;0;0;0;0;73;80;86;78;83;84;78;72;56;5
+198329;drigo;Rodrigo Moreno Machado;83;30500000;57000;Spain;Spain;Valencia CF;28;183;77;2;3;4;80;0;0;0;0;72;78;80;78;82;78;72;76;60;5
+199564;rgi Roberto;Sergio Roberto Carnicer;83;24500000;170000;Spain;Spain;FC Barcelona;27;152;68;3;3;4;86;0;1;0;0;85;63;72;85;80;47;69;66;68;10
+200724;cho Fernández;José Ignacio Fernández Iglesias;83;23500000;180000;Spain;Spain;Real Madrid;29;155;76;2;4;2;86;0;0;0;0;70;32;82;80;55;81;79;28;78;7
+202651;so;Jesús Joaquín Fernández Sáez;83;32000000;115000;Spain;Spain;Milan;25;175;70;3;3;4;80;0;0;0;0;84;70;50;86;88;50;56;87;23;9
+192629;go Aspas;Iago Aspas Juncal;84;30000000;45000;Spain;Spain;RC Celta;31;175;67;2;3;3;77;0;0;0;1;80;88;78;79;86;68;60;82;63;13
+193747;ke;Jorge Resurrección Merodio;85;41500000;88000;Spain;Spain;Atletico Madrid;27;175;74;3;4;3;84;0;0;0;0;86;72;61;89;80;63;77;81;76;13
+204963;rvajal;Daniel Carvajal Ramos;85;36500000;205000;Spain;Spain;Real Madrid;27;173;73;3;3;3;86;0;0;0;0;84;41;70;83;78;76;74;36;84;15
+208421;úl;Saúl Ñíguez Esclápez;85;50500000;77000;Spain;Spain;Atletico Madrid;24;183;77;3;4;3;84;0;0;0;0;69;78;83;85;80;79;77;81;69;9
+184432;pilicueta;César Azpilicueta Tanco;86;35000000;175000;Spain;Spain;Chelsea;29;152;76;3;3;2;83;0;0;0;0;81;46;76;81;69;76;71;60;82;5
+155862;rgio Ramos;Sergio Ramos García;90;44000000;310000;Spain;Spain;Real Madrid;32;183;82;4;3;3;86;0;0;0;0;66;63;91;80;65;93;83;62;90;11
+193080;Gea;David De Gea Quintana;91;72000000;260000;Spain;Spain;Manchester United;28;193;76;4;3;1;82;1;0;0;0;17;13;21;50;18;67;64;12;38;94
+194201;Jansson;Pontus Jansson;77;8500000;41000;Sweden;Sweden;Leeds United;28;196;86;1;3;2;72;0;0;0;0;29;29;74;68;64;54;90;50;80;7
+208451;Quaison;Robin Quaison;75;8500000;24000;Sweden;Sweden;1. FSV Mainz 05;25;183;77;1;3;3;75;0;0;0;0;67;74;56;74;80;55;74;73;54;13
+190120;Johnsson;Karl-Johan Johnsson;73;3200000;15000;Sweden;Sweden;En Avant de Guingamp;29;188;84;1;2;1;73;0;0;0;0;11;13;19;26;16;71;69;13;35;76
+176942;Lustig;Mikael Lustig;71;1600000;28000;Sweden;Sweden;Celtic;32;188;78;2;3;3;74;0;1;0;0;66;48;75;72;66;81;76;60;68;10
+207553;Rohdén;Marcus Rohdén;71;2400000;3000;Sweden;Sweden;Crotone;27;183;76;1;4;3;69;0;0;0;0;60;63;42;70;68;71;71;65;87;14
+184472;Olsson;Martin Olsson;71;1700000;17000;Sweden;Sweden;Swansea City;30;152;81;2;2;3;71;0;0;0;0;70;55;60;66;68;73;72;64;74;12
+205985;Kiese Thelin;Isaac Kiese Thelin;72;3800000;16000;Sweden;Sweden;Bayer 04 Leverkusen;26;188;82;1;3;3;80;0;0;0;0;46;71;78;74;65;52;85;58;71;8
+192129;Nordfeldt;Kristoffer Nordfeldt;72;2500000;16000;Sweden;Sweden;Swansea City;29;191;85;2;2;1;71;0;0;0;0;11;13;13;41;14;83;74;12;24;76
+164459;Larsson;Sebastian Larsson;73;2300000;9000;Sweden;Sweden;AIK;33;152;70;2;3;3;68;0;0;0;0;80;64;66;76;65;70;62;72;80;8
+207650;Krafth;Emil Krafth;73;4300000;19000;Sweden;Sweden;Amiens SC;24;155;72;1;3;3;73;0;0;0;0;68;41;64;68;68;68;68;58;72;7
+202944;Hiljemark;Oscar Hiljemark;74;6500000;15000;Sweden;Sweden;Genoa;26;183;73;1;3;3;74;0;0;0;0;68;48;59;77;72;72;69;67;69;12
+177448;Svensson;Gustav Svensson;74;3800000;7000;Sweden;Sweden;Seattle Sounders FC;32;183;77;1;2;3;70;0;0;0;0;49;34;65;75;64;73;77;47;82;6
+189207;Durmaz;Jimmy Durmaz;74;5500000;26000;Sweden;Sweden;Toulouse Football Club;29;155;69;2;4;3;73;0;0;0;0;74;69;22;75;79;53;53;73;75;15
+207555;Helander;Filip Helander;75;7000000;25000;Sweden;Sweden;Bologna;25;193;84;1;1;2;75;0;0;0;0;30;28;74;52;52;68;83;25;80;16
+212678;Augustinsson;Ludwig Augustinsson;77;10000000;22000;Sweden;Sweden;SV Werder Bremen;24;155;72;1;2;3;77;0;1;0;0;78;55;56;73;73;69;65;59;68;8
+199602;Guidetti;John Guidetti;77;11000000;27000;Sweden;Sweden;Deportivo Alaves;26;185;79;2;3;4;76;0;0;0;0;67;76;75;75;76;70;82;80;75;11
+181318;Ekdal;Albin Ekdal;77;9000000;37000;Sweden;Sweden;Sampdoria;29;185;75;2;3;3;76;0;0;0;0;67;60;62;80;74;66;75;69;83;5
+207557;Olsen;Robin Olsen;78;7500000;46000;Sweden;Sweden;Roma;29;196;86;1;2;1;80;1;0;0;0;20;11;16;32;11;40;75;14;27;78
+221660;Lindelöf;Victor Nilsson Lindelöf;81;21000000;105000;Sweden;Sweden;Manchester United;24;188;80;2;4;3;82;0;0;0;0;64;42;77;79;70;78;78;57;80;9
+208448;Forsberg;Emil Forsberg;82;26000000;67000;Sweden;Sweden;RB Leipzig;27;152;74;2;4;4;79;0;0;1;0;84;70;45;85;82;53;62;74;62;11
+179565;Gavranovi?;Mario Gavranovi?;72;3200000;1000;Switzerland;Switzerland;Dinamo Zagreb;29;175;76;1;4;3;72;0;0;0;0;50;69;63;70;73;83;68;60;55;13
+215556;Fernandes;Edimilson Fernandes;71;3500000;36000;Switzerland;Switzerland;Fiorentina;22;191;70;1;4;3;76;0;0;1;0;57;62;45;74;73;56;69;70;60;13
+198067;Moubandje;Jacques François Moubandje;72;2500000;19000;Switzerland;Switzerland;Toulouse Football Club;28;155;74;1;3;3;73;0;0;0;0;65;42;66;71;70;90;77;40;73;6
+199383;Klose;Timm Klose;75;4900000;25000;Switzerland;Switzerland;Norwich City;30;193;87;1;3;2;72;0;0;0;0;34;29;81;66;27;60;84;35;73;10
+210047;Schär;Fabian Schär;75;7000000;38000;Switzerland;Switzerland;Newcastle United;27;188;84;2;4;2;76;0;0;0;0;65;60;79;73;64;88;77;65;72;15
+190059;Zuber;Steven Zuber;76;7500000;29000;Switzerland;Switzerland;VfB Stuttgart;27;183;79;1;4;3;76;0;0;1;0;74;63;72;74;78;65;77;79;72;9
+184501;Lang;Michael Lang;77;7500000;26000;Switzerland;Switzerland;Borussia Monchengladbach;28;185;79;1;4;3;79;0;0;0;0;78;71;80;74;63;80;79;66;69;11
+229261;Zakaria;Denis Lemi Zakaria Lako Lado;77;13000000;21000;Switzerland;Switzerland;Borussia Monchengladbach;22;191;80;1;3;3;79;0;0;0;0;65;60;65;80;74;65;83;53;88;11
+108080;Lichtsteiner;Stephan Lichtsteiner;77;2500000;79000;Switzerland;Switzerland;Arsenal;35;183;76;3;3;3;82;0;0;0;0;75;45;70;77;74;73;70;68;82;2
+202024;Freuler;Remo Freuler;77;10500000;28000;Switzerland;Switzerland;Atalanta;26;155;77;2;3;4;76;0;0;0;0;70;65;41;78;75;58;66;72;60;13
+221491;Elvedi;Nico Elvedi;78;12000000;20000;Switzerland;Switzerland;Borussia Monchengladbach;22;188;78;2;3;3;79;0;0;0;0;65;30;79;73;69;73;77;31;69;9
+193352;Rodríguez;Ricardo Rodríguez;80;15500000;81000;Switzerland;Switzerland;Milan;26;155;77;3;3;4;80;0;1;0;0;86;59;64;78;76;73;75;72;75;11
+199503;Xhaka;Granit Xhaka;81;22000000;115000;Switzerland;Switzerland;Arsenal;26;185;82;3;2;3;82;0;0;0;0;73;49;62;86;70;32;77;79;92;13
+229237;Akanji;Manuel Obafemi Akanji;81;21000000;49000;Switzerland;Switzerland;Borussia Dortmund;23;188;85;2;3;2;81;0;0;0;0;51;36;75;78;67;78;84;45;75;9
+193348;Shaqiri;Xherdan Shaqiri;82;24000000;140000;Switzerland;Switzerland;Liverpool;27;170;72;3;4;5;83;0;0;0;1;79;71;45;82;86;52;73;84;61;11
+177683;Sommer;Yann Sommer;84;24000000;39000;Switzerland;Switzerland;Borussia Monchengladbach;30;183;79;3;4;1;79;1;0;0;0;13;13;10;40;15;73;68;12;38;87
+231887;Yaz?c?;Yusuf Yaz?c?;76;11000000;22000;Turkey;Turkey;Trabzonspor;22;183;74;1;4;4;71;0;0;1;0;77;71;68;76;78;55;69;75;68;7
+225403;Kahveci;?rfan Can Kahveci;75;9000000;21000;Turkey;Turkey;Medipol Basaksehir FK;23;175;67;1;4;4;76;0;0;0;0;65;65;55;77;80;58;62;70;65;10
+232119;Söyüncü;Ça?lar Söyüncü;74;7000000;39000;Turkey;Turkey;Leicester City;22;185;82;1;4;2;78;0;0;0;0;46;37;68;56;57;68;78;42;81;7
+223188;Özbayrakl?;?ener Özbayrakl?;74;4400000;47000;Turkey;Turkey;Fenerbahce SK;29;170;71;1;2;3;76;0;0;0;0;76;47;64;72;72;74;66;74;78;13
+182670;Tekdemir;Mahmut Tekdemir;73;3000000;18000;Turkey;Turkey;Medipol Basaksehir FK;31;152;68;1;2;3;76;0;0;0;0;57;53;68;75;67;82;68;66;78;15
+196318;Gürler;Serdar Gürler;72;3300000;17000;Turkey;Turkey;Goztepe SK;27;175;65;1;4;3;72;0;0;0;0;70;69;56;70;74;59;51;62;33;15
+229637;Akkan;Gökhan Akkan;67;700000;3000;Turkey;Turkey;Rizespor;24;185;80;1;2;1;71;0;0;0;0;15;15;13;29;15;58;69;14;20;69
+224489;Ersoy;Ertu?rul Ersoy;70;2500000;7000;Turkey;Turkey;Bursaspor;22;188;82;1;3;2;71;0;0;0;0;23;22;71;62;53;72;79;29;66;7
+235717;Özcan;Berkay Özcan;71;3400000;7000;Turkey;Turkey;Hamburger SV;21;155;79;1;4;3;73;0;0;0;0;67;56;43;74;76;56;67;43;52;13
+193201;Bayram;Ömer Bayram;71;2000000;29000;Turkey;Turkey;Galatasaray SK;27;173;73;1;3;3;76;0;0;0;0;73;63;50;69;75;82;63;71;52;15
+125871;Kald?r?m;Hasan Ali Kald?r?m;73;3200000;43000;Turkey;Turkey;Fenerbahce SK;29;183;75;1;2;3;76;0;1;0;0;74;42;58;70;70;68;66;70;75;6
+224490;Çelik;Mehmet Zeki Çelik;74;8000000;17000;Turkey;Turkey;LOSC Lille;22;155;78;1;3;3;75;0;1;0;0;73;37;64;74;67;64;72;32;68;7
+144172;K?r?nt?l?;Serkan K?r?nt?l?;74;2800000;12000;Turkey;Turkey;Atiker Konyaspor;34;185;78;1;2;1;71;1;0;0;0;12;13;16;24;13;78;59;12;32;76
+207790;Ayhan;Kaan Ayhan;75;7500000;22000;Turkey;Turkey;Fortuna Dusseldorf;24;183;84;1;4;3;73;0;0;0;0;68;35;69;74;64;86;77;71;75;10
+162220;Bolat;Sinan Bolat;75;4500000;10000;Turkey;Turkey;Royal Antwerp FC;30;185;83;1;3;1;72;0;0;0;0;15;12;29;33;17;65;72;11;35;76
+223197;Ünal;Enes Ünal;77;12500000;26000;Turkey;Turkey;Real Valladolid CF;21;185;75;1;4;3;74;0;0;0;0;56;78;72;73;76;70;79;79;43;13
+189127;Aziz;Serdar Aziz;77;8500000;54000;Turkey;Turkey;Fenerbahce SK;28;183;79;1;3;2;76;0;0;0;0;43;26;78;71;52;82;79;31;80;10
+205201;Yoku?lu;Okay Yoku?lu;77;10500000;19000;Turkey;Turkey;RC Celta;24;191;86;1;4;3;77;0;0;0;0;67;65;78;77;74;70;83;75;81;7
+192991;Tosun;Cenk Tosun;78;12000000;95000;Turkey;Turkey;Everton;27;183;78;2;4;3;79;0;0;0;1;64;78;81;70;75;80;74;75;75;9
+235889;Ünder;Cengiz Ünder;78;16000000;49000;Turkey;Turkey;Roma;21;173;66;1;4;3;80;0;0;1;0;83;71;58;72;83;48;54;82;27;8
+208128;Çalhano?lu;Hakan Çalhano?lu;80;19000000;89000;Turkey;Turkey;Milan;25;152;76;3;4;4;80;0;0;0;1;81;65;53;83;85;46;54;88;57;10
+238744;McKennie;Weston McKennie;75;10500000;13000;United States;United States;FC Schalke 04;20;185;84;1;3;3;78;0;0;0;0;56;56;76;76;74;85;82;67;82;11
+226807;Roldan;Cristian Roldan;73;4700000;6000;United States;United States;Seattle Sounders FC;23;173;75;1;3;3;70;0;0;0;0;66;63;63;73;70;83;66;63;78;11
+212591;Zimmerman;Walker Zimmerman;72;3400000;6000;United States;United States;Los Angeles FC;25;191;89;1;3;2;70;0;0;0;0;39;52;78;67;42;78;83;40;82;9
+236993;Lima;Nick Lima;69;1200000;3000;United States;United States;San Jose Earthquakes;24;175;80;1;4;3;69;0;0;0;0;66;58;53;65;70;65;66;59;71;11
+229348;Robinson;Antonee Robinson;69;1600000;15000;United States;United States;Wigan Athletic;21;183;64;1;2;3;69;0;1;0;0;60;33;54;48;69;70;67;31;65;9
+242075;Sargent;Josh Sargent;65;1100000;4000;United States;United States;SV Werder Bremen;19;185;79;1;3;3;77;0;0;0;0;43;68;58;56;66;64;60;58;56;9
+241496;Weah;Timothy Weah;69;2200000;16000;United States;United States;Celtic;19;185;66;1;3;3;74;0;0;0;1;55;70;67;61;69;67;59;66;48;14
+219736;Horvath;Ethan Horvath;71;2400000;9000;United States;United States;Club Brugge KV;23;196;86;1;3;1;75;0;0;0;0;11;17;13;31;16;64;64;19;27;77
+201447;Lletget;Sebastian  Lletget;72;3800000;6000;United States;United States;LA Galaxy;26;152;75;1;5;4;71;0;0;0;0;69;64;55;75;76;52;75;57;59;9
+217714;Arriola;Paul Joseph Arriola Hendricks;72;4200000;6000;United States;United States;DC United;24;168;65;1;3;3;70;0;0;0;0;64;66;46;66;74;74;53;64;74;14
+232999;Adams;Tyler Adams;72;4800000;12000;United States;United States;RB Leipzig;20;175;68;1;3;3;79;0;0;0;0;51;46;64;70;69;83;68;44;76;7
+212478;Zardes;Gyasi Zardes;73;4800000;8000;United States;United States;Columbus Crew SC;27;185;84;1;4;3;70;0;0;0;0;59;73;66;64;70;78;79;62;65;11
+212424;Trapp;Wil Trapp;73;4300000;6000;United States;United States;Columbus Crew SC;26;173;68;1;2;3;70;0;0;0;0;51;43;54;78;67;61;59;59;69;10
+202428;Wood;Bobby Shou Wood;73;5000000;13000;United States;United States;Hannover 96;26;155;79;1;3;3;75;0;0;0;0;62;75;68;64;71;82;76;64;60;12
+164505;Guzan;Bradley Guzan;73;2000000;5000;United States;United States;Atlanta United;34;193;95;2;2;1;71;0;0;0;0;16;14;12;26;14;67;63;15;35;75
+215565;Miazga;Matt Miazga;73;4500000;22000;United States;United States;Reading;23;193;84;1;3;2;70;0;0;0;0;25;16;74;67;53;79;82;32;81;15
+222123;Long;Aaron Long;74;6500000;7000;United States;United States;New York Red Bulls;26;185;86;1;3;2;71;0;0;0;0;38;32;76;71;59;85;83;31;76;12
+176237;Altidore;Jozy Altidore;75;7000000;10000;United States;United States;Toronto FC;29;183;79;3;4;3;69;0;0;0;1;46;75;75;67;70;75;90;66;80;12
+234777;Steffen;Zack Steffen;75;8000000;5000;United States;United States;Columbus Crew SC;23;191;86;1;3;1;70;1;0;0;0;14;9;13;46;15;71;69;12;31;83
+212722;Yedlin;DeAndre Yedlin;76;8500000;34000;United States;United States;Newcastle United;25;173;75;1;3;3;76;0;1;0;0;69;40;65;70;75;86;66;51;76;11
+155887;Bradley;Michael Bradley;76;5500000;8000;United States;United States;Toronto FC;31;188;79;2;3;2;69;0;0;1;0;73;57;63;80;73;47;76;69;80;16
+227796;Pulisic;Christian Pulisic;78;15000000;44000;United States;United States;Borussia Dortmund;20;152;69;3;4;4;81;0;0;0;1;68;66;46;75;85;82;53;58;45;14
+204082;Brooks;John Anthony Brooks;79;14000000;44000;United States;United States;VfL Wolfsburg;26;193;78;2;3;2;77;0;0;0;0;36;39;82;73;65;72;84;29;75;10
+179813;Cavani;Edinson Roberto Cavani Gómez;89;60000000;200000;Uruguay;Uruguay;Paris Saint-Germain;32;185;77;4;4;3;84;0;0;0;0;70;89;89;78;80;88;78;79;84;10
+216460;Giménez;José María Giménez de Vargas;84;34000000;63000;Uruguay;Uruguay;Atletico Madrid;24;185;80;2;3;2;84;0;0;0;0;47;37;81;68;47;90;85;48;89;15
+223959;Torreira;Lucas Torreira Di Pascua;82;25000000;98000;Uruguay;Uruguay;Arsenal;23;168;64;2;3;3;82;0;0;0;0;74;50;59;83;78;52;66;74;86;9
+239207;Gómez;Maximiliano Gómez;80;20500000;25000;Uruguay;Uruguay;RC Celta;22;185;84;1;3;4;77;0;0;0;0;56;85;81;76;76;73;80;76;65;6
+229636;Pereiro;Gastón Rodrigo Pereiro López;77;12000000;15000;Uruguay;Uruguay;PSV;23;188;76;1;2;3;76;0;0;0;0;73;73;73;75;79;70;75;76;57;12
+239053;Valverde;Federico Valverde;76;13000000;52000;Uruguay;Uruguay;Real Madrid;20;183;78;1;3;3;86;0;0;0;0;49;67;48;80;71;49;68;77;59;8
+246387;Suárez;Mathías Suárez;71;2800000;12000;Uruguay;Uruguay;Montpellier HSC;22;183;80;1;4;2;75;0;0;0;0;69;24;65;67;53;81;74;51;65;11
+182495;Cáceres;Martín Cáceres;78;7000000;44000;Uruguay;Uruguay;Juventus;31;155;78;2;3;2;85;0;1;0;0;69;37;76;67;60;91;72;59;78;4
+213400;Laxalt;Diego Laxalt;78;12500000;76000;Uruguay;Uruguay;Milan;26;152;68;2;3;4;80;0;1;0;0;78;60;43;78;77;65;60;66;72;8
+227535;Bentancur;Rodrigo Bentancur Colmán;78;18500000;66000;Uruguay;Uruguay;Juventus;21;188;72;1;3;4;85;0;0;0;0;58;53;62;85;84;74;67;62;66;12
+219985;Vecino;Matias Vecino;80;14500000;63000;Uruguay;Uruguay;Inter;27;188;81;2;3;4;82;0;0;1;0;71;61;75;83;84;67;75;77;72;4
+182494;Muslera;Fernando Muslera;81;10000000;52000;Uruguay;Uruguay;Galatasaray SK;32;191;74;3;2;1;76;1;0;0;0;15;10;12;44;25;84;68;10;32;83
+186537;Stuani;Cristhian Ricardo Stuani Curbelo;81;16000000;44000;Uruguay;Uruguay;Girona FC;32;185;72;1;3;4;77;0;0;0;0;68;83;87;74;78;83;78;76;81;8
+182493;Godín;Diego Godín;90;44000000;125000;Uruguay;Uruguay;Atletico Madrid;33;188;78;3;3;2;84;0;0;0;0;55;42;92;79;53;91;88;43;89;15
+176580;Suárez;Luis Alberto Suárez Díaz;91;80000000;455000;Uruguay;Uruguay;FC Barcelona;32;183;86;5;4;3;86;0;0;0;0;77;92;82;82;86;69;83;85;87;37
+189250;Rondón;José Salomón Rondón Giménez;77;9000000;41000;Venezuela;Venezuela;Newcastle United;29;185;98;2;4;3;76;0;0;0;0;48;75;84;68;70;71;85;68;72;14
+210463;Machís;Darwin Machís;75;8000000;26000;Venezuela;Venezuela;Cadiz CF;26;170;74;1;4;4;70;0;0;1;0;70;73;51;72;82;81;58;69;72;10
+234060;Herrera;Yangel Herrera;68;1300000;24000;Venezuela;Venezuela;SD Huesca;21;183;77;1;3;3;72;0;0;1;0;44;49;65;68;64;75;71;51;76;8
+241067;Romero;Hermes Aristóteles Romero;63;500000;1000;Venezuela;Venezuela;CF Rayo Majadahonda;23;183;83;1;3;2;67;0;0;0;0;57;39;60;73;63;62;56;43;70;14
+231596;Contreras;José Contreras;65;550000;1000;Venezuela;Venezuela;La Berrichonne de Chateauroux;24;185;83;1;3;1;65;0;0;0;0;13;8;11;23;7;68;61;8;22;66
+183819;Feltscher;Rolf Günther Feltscher Martínez;66;525000;2000;Venezuela;Venezuela;LA Galaxy;28;183;90;1;3;2;71;0;0;0;0;62;32;59;65;63;71;78;67;70;7
+239747;Córdova;Sergio Córdova;68;1500000;8000;Venezuela;Venezuela;FC Augsburg;21;188;87;1;2;3;74;0;0;0;0;37;67;56;59;71;54;78;64;42;14
+240982;Moreno;Junior Leonardo Moreno Borrero;68;1100000;3000;Venezuela;Venezuela;DC United;25;175;73;1;4;2;70;0;0;1;0;65;51;62;71;60;64;72;59;74;11
+238555;Savarino;Jefferson Savarino;72;5000000;5000;Venezuela;Venezuela;Real Salt Lake;22;170;66;1;4;4;69;0;0;0;0;59;66;43;68;78;55;57;65;59;12
+231638;Peñaranda;Adalberto Peñaranda;73;6000000;32000;Venezuela;Venezuela;Watford;21;185;83;1;3;3;77;0;0;0;0;64;71;64;69;79;60;64;69;62;6
+182896;Rosales;Roberto Rosales;74;4300000;10000;Venezuela;Venezuela;RCD Espanyol;30;175;70;2;3;3;77;0;1;0;0;75;59;60;71;69;72;65;64;69;8
+191053;Rincón;Tomás Eduardo Rincón Hernández;77;8000000;42000;Venezuela;Venezuela;Torino;31;152;76;2;3;3;77;0;0;1;0;65;45;58;78;76;91;77;72;82;12
+207877;Martínez;Josef Alexander Martínez;82;28500000;15000;Venezuela;Venezuela;Atlanta United;25;170;69;1;4;3;71;0;0;0;0;53;86;77;68;76;86;74;66;66;8
+186561;Ramsey;Aaron Ramsey;82;23000000;130000;Wales;Wales;Arsenal;28;183;76;3;3;3;82;0;0;0;1;75;74;58;84;81;66;67;74;73;8
+220196;Brooks;David Brooks;75;11500000;39000;Wales;Wales;Bournemouth;21;183;62;1;3;4;77;0;0;1;0;69;71;40;76;77;59;49;55;44;7
+179746;Vokes;Sam Vokes;75;7000000;45000;Wales;Wales;Stoke City;29;188;90;1;3;2;73;0;0;0;0;59;77;83;68;65;89;84;71;80;7
+204355;Dummett;Paul Dummett;75;6500000;38000;Wales;Wales;Newcastle United;27;183;82;1;2;3;76;0;0;0;0;61;41;73;70;65;75;74;35;75;13
+235735;Ampadu;Ethan Ampadu;65;1100000;8000;Wales;Wales;Chelsea;18;183;72;1;3;2;83;0;0;0;0;27;23;59;70;57;74;67;22;57;12
+173752;Gunter;Chris Gunter;66;500000;9000;Wales;Wales;Reading;29;155;71;1;4;2;70;0;1;0;0;60;44;58;60;56;65;64;41;62;9
+200715;Davies;Adam Davies;67;725000;3000;Wales;Wales;Barnsley;26;185;80;1;3;1;66;0;0;0;0;12;11;16;25;12;46;47;15;31;68
+236248;Woodburn;Ben Woodburn;68;1800000;15000;Wales;Wales;Liverpool;19;175;72;1;4;3;83;0;0;0;0;50;62;44;67;70;60;52;62;31;12
+228815;Roberts;Tyler Roberts;68;1600000;9000;Wales;Wales;Leeds United;20;155;75;1;3;3;72;0;0;0;0;60;67;62;65;72;60;73;61;45;13
+225147;Roberts;Connor Roberts;69;1300000;10000;Wales;Wales;Swansea City;23;175;71;1;4;3;71;0;0;0;0;68;35;52;69;66;61;60;27;58;13
+233201;Mepham;Chris Mepham;70;2400000;20000;Wales;Wales;Bournemouth;21;191;75;1;3;2;77;0;0;0;0;29;22;58;66;56;74;74;24;68;12
+186578;King;Andy King;71;2300000;38000;Wales;Wales;Derby County;30;183;79;1;3;3;71;0;0;0;0;59;68;73;72;69;75;73;69;63;6
+163824;Williams;Ashley Williams;72;1300000;50000;Wales;Wales;Stoke City;34;183;77;3;4;2;73;0;0;0;0;32;37;68;63;57;63;82;40;80;10
+211513;Lawrence;Tom Lawrence;72;3900000;29000;Wales;Wales;Derby County;25;155;75;1;4;4;71;0;0;1;0;72;69;56;70;76;60;58;77;66;7
+207998;Ward;Danny Ward;73;3500000;32000;Wales;Wales;Leicester City;25;191;88;1;3;1;78;0;0;0;0;13;11;13;30;19;64;60;16;25;76
+220710;Wilson;Harry Wilson;74;10000000;59000;Wales;Wales;Derby County;21;173;70;1;3;3;71;0;0;0;0;72;73;47;72;73;45;47;81;31;7
+186130;Chester;James Chester;74;4400000;18000;Wales;Wales;Aston Villa;30;155;79;1;3;2;73;0;0;0;0;54;33;73;68;60;84;78;31;72;13
+170084;Hennessey;Wayne  Hennessey;75;4000000;34000;Wales;Wales;Crystal Palace;32;198;90;2;3;1;77;1;0;0;0;11;12;14;29;8;41;68;10;21;71
+184716;Allen;Joe Allen;76;7500000;44000;Wales;Wales;Stoke City;28;168;62;2;3;3;73;0;0;0;0;73;68;52;77;74;81;60;58;81;8
+205923;Davies;Ben Davies;80;15000000;82000;Wales;Wales;Tottenham Hotspur;25;183;76;2;3;3;83;0;1;0;0;82;58;67;79;76;73;69;52;76;14
+173731;Bale;Gareth Frank Bale;88;60000000;355000;Wales;Wales;Real Madrid;29;185;82;4;3;4;86;0;0;0;1;87;86;84;85;87;87;80;91;65;6
